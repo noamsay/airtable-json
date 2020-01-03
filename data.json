@@ -105,7 +105,7 @@
               }
             }
           ],
-          "Bio": "Marc Zakharovich Chagall was a Russian-French artist. Chagall saw his work as \"not the dream of one people but of all humanity\". An early modernist, he was associated with several major artistic styles and created works in virtually every artistic medium, including painting, book illustrations, stained glass, stage sets, ceramic, tapestries and fine art prints.\n",
+          "Bio": "Marc Zakharovich Chagall was a Russian-French artist. Chagall saw his work as \"not the dream of one people but of all humanity\". An early modernist, he was associated with several major artistic styles and created works in virtually every artistic medium, including painting, book illustrations, stained glass, stage sets, ceramic, tapestries and fine art prints.",
           "Genre": [
             "Symbolism",
             "Expressionism",
@@ -197,7 +197,7 @@
               }
             }
           ],
-          "Bio": "Franz Marc was a German painter and printmaker, one of the key figures of the German Expressionist movement. He was a founding member of Der Blaue Reiter (The Blue Rider), a journal whose name later became synonymous with the circle of artists collaborating in it.\n",
+          "Bio": "Franz Marc was a German painter and printmaker, one of the key figures of the German Expressionist movement. He was a founding member of Der Blaue Reiter (The Blue Rider), a journal whose name later became synonymous with the circle of artists collaborating in it.",
           "Genre": [
             "Abstract Expressionism",
             "Der Blaue Reiter",
@@ -214,7 +214,7 @@
         "type": "Feature",
         "id": "recAFhyiBMTl33ybS",
         "properties": {
-          "Name": "Al Held - Noam",
+          "Name": "Al Held ",
           "Attachments": [
             {
               "id": "attCE1L8ubR6Ciq80",
@@ -321,7 +321,33 @@
           "Collection": [
             "recYgiMiPErSIMsCJ"
           ],
-          "On Display?": true
+          "On Display?": true,
+          "Pic": [
+            {
+              "id": "attRVBiWVboTRcfVG",
+              "url": "https://dl.airtable.com/.attachments/bbf7d6839ad1b9435e3bf3e7605ce28e/3e1138d3/17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpgPortrait.jpeg",
+              "filename": "17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpg!Portrait.jpeg",
+              "size": 19156,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b513e03fb08556739ae134a4438f0aa7/f841ffc7",
+                  "width": 27,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/21dc5c94f05307d55c2ef539fceb6708/dd508850",
+                  "width": 299,
+                  "height": 400
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cf0852b0bc9822b8a39f94f994fe45b0/a90dd34e",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ]
         },
         "geometry": null
       },
@@ -519,7 +545,7 @@
               }
             }
           ],
-          "Bio": "Arshile Gorky had a seminal influence on Abstract Expressionism. As such, his works were often speculated to have been informed by the suffering and loss he experienced of the Armenian Genocide.\n\n",
+          "Bio": "Arshile Gorky had a seminal influence on Abstract Expressionism. As such, his works were often speculated to have been informed by the suffering and loss he experienced of the Armenian Genocide.\n",
           "Genre": [
             "Abstract Expressionism",
             "Modern art"
@@ -610,7 +636,7 @@
               }
             }
           ],
-          "Bio": "Edvard Munch was a Norwegian painter and printmaker whose intensely evocative treatment of psychological themes built upon some of the main tenets of late 19th-century Symbolism and greatly influenced German Expressionism in the early 20th century. One of his most well-known works is The Scream of 1893.\n\n",
+          "Bio": "Edvard Munch was a Norwegian painter and printmaker whose intensely evocative treatment of psychological themes built upon some of the main tenets of late 19th-century Symbolism and greatly influenced German Expressionism in the early 20th century. One of his most well-known works is The Scream of 1893.\n",
           "Genre": [
             "Abstract Expressionism",
             "Modern art",
@@ -701,7 +727,7 @@
               }
             }
           ],
-          "Bio": "Matthíasdóttir was born in Reykjavík. She showed artistic ability at an early age, and studied first in Denmark and then under Marcel Gromaire in Paris. Her early paintings, dating from the late 1930s, established her as a leading figure in the Icelandic avant-garde community (many of whom met together in a house in Reykjavík called Unuhús). In these paintings, subjects are painted with a broad brush, emphasizing geometric form. These paintings already show much of the character of Matthíasdóttir's mature work, but are more subdued in color.\n",
+          "Bio": "Matthíasdóttir was born in Reykjavík. She showed artistic ability at an early age, and studied first in Denmark and then under Marcel Gromaire in Paris. Her early paintings, dating from the late 1930s, established her as a leading figure in the Icelandic avant-garde community (many of whom met together in a house in Reykjavík called Unuhús). In these paintings, subjects are painted with a broad brush, emphasizing geometric form. These paintings already show much of the character of Matthíasdóttir's mature work, but are more subdued in color.",
           "Genre": [
             "Abstract Expressionism"
           ],
@@ -815,7 +841,7 @@
               }
             }
           ],
-          "Bio": "Hans Hofmann was a German-born American abstract expressionist painter.\n",
+          "Bio": "Hans Hofmann was a German-born American abstract expressionist painter.",
           "Genre": [
             "Abstract Expressionism",
             "Modern art"
@@ -1020,7 +1046,7 @@
               }
             }
           ],
-          "Bio": "Alexander Calder was an American sculptor known as the originator of the mobile, a type of kinetic sculpture made with delicately balanced or suspended components which move in response to motor power or air currents. Calder’s stationary sculptures are called stabiles. He also produced numerous wire figures, notably for a miniature circus.\n",
+          "Bio": "Alexander Calder was an American sculptor known as the originator of the mobile, a type of kinetic sculpture made with delicately balanced or suspended components which move in response to motor power or air currents. Calder’s stationary sculptures are called stabiles. He also produced numerous wire figures, notably for a miniature circus.",
           "Genre": [
             "Surrealism",
             "Modern art",
@@ -1274,7 +1300,7 @@
               }
             }
           ],
-          "Bio": "Mark Rothko is generally identified as an Abstract Expressionist. With Jackson Pollock and Willem de Kooning, he is one of the most famous postwar American artists.\n",
+          "Bio": "Mark Rothko is generally identified as an Abstract Expressionist. With Jackson Pollock and Willem de Kooning, he is one of the most famous postwar American artists.",
           "Genre": [
             "American Abstract Expressionism",
             "Color Field"
@@ -1365,7 +1391,7 @@
               }
             }
           ],
-          "Bio": "Paul Klee was a painter born in Münchenbuchsee, Switzerland. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. He was also a student of orientalism. Klee was a natural draftsman who experimented with and eventually deeply explored color theory, writing about it extensively. His works reflect his dry humor and his sometimes childlike perspective, his personal moods and beliefs, and also his musicality.\nb. 18 December 1879 d. 29 June 1940 \n\n",
+          "Bio": "Paul Klee was a painter born in Münchenbuchsee, Switzerland. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. He was also a student of orientalism. Klee was a natural draftsman who experimented with and eventually deeply explored color theory, writing about it extensively. His works reflect his dry humor and his sometimes childlike perspective, his personal moods and beliefs, and also his musicality.\nb. 18 December 1879 d. 29 June 1940 \n",
           "Genre": [
             "Symbolism",
             "Surrealism",
@@ -1596,7 +1622,7 @@
               }
             }
           ],
-          "Bio": "Wassily Kandinsky (Васи́лий Канди́нский) was an influential Russian painter and art theorist. He is credited with painting one of the first purely abstract works. Born in Moscow, Kandinsky spent his childhood in Odessa. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.\n",
+          "Bio": "Wassily Kandinsky (Васи́лий Канди́нский) was an influential Russian painter and art theorist. He is credited with painting one of the first purely abstract works. Born in Moscow, Kandinsky spent his childhood in Odessa. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.",
           "Genre": [
             "Abstract Expressionism",
             "Der Blaue Reiter",
@@ -1735,7 +1761,7 @@
               }
             }
           ],
-          "Bio": "Barnett Newman was an American artist. He is seen as one of the major figures inabstract expressionism and one of the foremost of the color field painters. His paintings are existential in tone and content, explicitly composed with the intention of communicating a sense of locality, presence, and contingency.\n",
+          "Bio": "Barnett Newman was an American artist. He is seen as one of the major figures inabstract expressionism and one of the foremost of the color field painters. His paintings are existential in tone and content, explicitly composed with the intention of communicating a sense of locality, presence, and contingency.",
           "Genre": [
             "Color Field",
             "American Abstract Expressionism"
