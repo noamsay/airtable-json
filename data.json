@@ -6,29 +6,37 @@
         "type": "Feature",
         "id": "rec4ru59bZzNheKv3",
         "properties": {
-          "Name": "Marc Chagall",
+          "Genre": [
+            "Symbolism",
+            "Expressionism",
+            "Fauvism",
+            "Modern art"
+          ],
+          "Collection": [
+            "rec0KryE2r7MKf3TC"
+          ],
           "Attachments": [
             {
               "id": "attrxFDiSNonm5TPi",
               "width": 1024,
               "height": 872,
-              "url": "https://dl.airtable.com/mNvDUXO8S5u5GRrWFFT2_Four_Seasons_Mosaic_section.jpg",
+              "url": "https://dl.airtable.com/mNvDUXO8S5u5GRrWFFT2_Four_Seasons_Mosaic_section.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=685bcb0b8ba5ca99",
               "filename": "Four_Seasons_Mosaic_section.jpg",
               "size": 725916,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/VXuR6ievQDuinLS8jWmr_small_Four_Seasons_Mosaic_section.jpg",
+                  "url": "https://dl.airtable.com/VXuR6ievQDuinLS8jWmr_small_Four_Seasons_Mosaic_section.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8068cc8df3bdcb19",
                   "width": 42,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/z0Q89txTOiu1y5JB1hDZ_large_Four_Seasons_Mosaic_section.jpg",
+                  "url": "https://dl.airtable.com/z0Q89txTOiu1y5JB1hDZ_large_Four_Seasons_Mosaic_section.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0b1827b352f065de",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/ZzXLk2EBT5eq5Nrg1aMS_full_Four_Seasons_Mosaic_section.jpg",
+                  "url": "https://dl.airtable.com/ZzXLk2EBT5eq5Nrg1aMS_full_Four_Seasons_Mosaic_section.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=53dbbf6f3b6abee8",
                   "width": 1024,
                   "height": 872
                 }
@@ -38,23 +46,23 @@
               "id": "attCltNrI1czo705z",
               "width": 401,
               "height": 560,
-              "url": "https://dl.airtable.com/KWjHMfTQTYePZqC0eEMN_david_and_bathsheba.jpg",
+              "url": "https://dl.airtable.com/KWjHMfTQTYePZqC0eEMN_david_and_bathsheba.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3946a34bc2b8dea5",
               "filename": "david_and_bathsheba.jpg",
               "size": 119333,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/daJLiBEVSH27Ex87709h_small_david_and_bathsheba.jpg",
+                  "url": "https://dl.airtable.com/daJLiBEVSH27Ex87709h_small_david_and_bathsheba.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9a31a408484c2e5b",
                   "width": 26,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/lK2yL0qzQCCSOCAw8g0O_large_david_and_bathsheba.jpg",
+                  "url": "https://dl.airtable.com/lK2yL0qzQCCSOCAw8g0O_large_david_and_bathsheba.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=762763a0d2173cbc",
                   "width": 401,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/6y8eM8lSQN2baKanMEmR_full_david_and_bathsheba.jpg",
+                  "url": "https://dl.airtable.com/6y8eM8lSQN2baKanMEmR_full_david_and_bathsheba.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=66298b2e2004b560",
                   "width": 401,
                   "height": 560
                 }
@@ -64,23 +72,23 @@
               "id": "attvD91FYjd70s664",
               "width": 591,
               "height": 473,
-              "url": "https://dl.airtable.com/7u2Jl0IyRbqyPci46BNz_Chagall_Circus.jpg",
+              "url": "https://dl.airtable.com/7u2Jl0IyRbqyPci46BNz_Chagall_Circus.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2607e69dc1733352",
               "filename": "Chagall_Circus.jpg",
               "size": 87755,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/JpsKgzQRWasz5k140taV_small_Chagall_Circus.jpg",
+                  "url": "https://dl.airtable.com/JpsKgzQRWasz5k140taV_small_Chagall_Circus.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=180a651e290850c1",
                   "width": 45,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/9VqrM3fDROqP2LE8aylp_large_Chagall_Circus.jpg",
+                  "url": "https://dl.airtable.com/9VqrM3fDROqP2LE8aylp_large_Chagall_Circus.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6f9f59df1f2bbb8f",
                   "width": 512,
                   "height": 473
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/xzinyEgS3Oq2JesBIVJc_full_Chagall_Circus.jpg",
+                  "url": "https://dl.airtable.com/xzinyEgS3Oq2JesBIVJc_full_Chagall_Circus.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8ac057747088f601",
                   "width": 591,
                   "height": 473
                 }
@@ -90,23 +98,23 @@
               "id": "attiVo3p4YGPURL53",
               "width": 800,
               "height": 619,
-              "url": "https://dl.airtable.com/ILf7ke9RiWl70NojlRqn_over-the-town-1918.jpg",
+              "url": "https://dl.airtable.com/ILf7ke9RiWl70NojlRqn_over-the-town-1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=cabf863127f8c332",
               "filename": "over-the-town-1918.jpg",
               "size": 131932,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/djAqWq2BRWU1OtXCgSrQ_small_over-the-town-1918.jpg",
+                  "url": "https://dl.airtable.com/djAqWq2BRWU1OtXCgSrQ_small_over-the-town-1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=954e27c6bcd6edf0",
                   "width": 47,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/FKIN8bVAQZmigge2mh1F_large_over-the-town-1918.jpg",
+                  "url": "https://dl.airtable.com/FKIN8bVAQZmigge2mh1F_large_over-the-town-1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2985b1f549f1f5fb",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/J93F6k9R2OESNtiLjIsA_full_over-the-town-1918.jpg",
+                  "url": "https://dl.airtable.com/J93F6k9R2OESNtiLjIsA_full_over-the-town-1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=51385fc873bf58c4",
                   "width": 800,
                   "height": 619
                 }
@@ -114,15 +122,7 @@
             }
           ],
           "Bio": "Marc Zakharovich Chagall was a Russian-French artist. Chagall saw his work as \"not the dream of one people but of all humanity\". An early modernist, he was associated with several major artistic styles and created works in virtually every artistic medium, including painting, book illustrations, stained glass, stage sets, ceramic, tapestries and fine art prints.",
-          "Genre": [
-            "Symbolism",
-            "Expressionism",
-            "Fauvism",
-            "Modern art"
-          ],
-          "Collection": [
-            "rec0KryE2r7MKf3TC"
-          ]
+          "Name": "Marc Chagall"
         },
         "geometry": null
       },
@@ -130,29 +130,36 @@
         "type": "Feature",
         "id": "rec9PypdbnuTWmyJ7",
         "properties": {
-          "Name": "Franz Marc",
+          "Genre": [
+            "Abstract Expressionism",
+            "Der Blaue Reiter",
+            "Modern art"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attwGHVJIvgYbmQKN",
               "width": 576,
               "height": 771,
-              "url": "https://dl.airtable.com/YgGPao6TTY24n2sT0j2h_Marc-blue_horse.jpg",
+              "url": "https://dl.airtable.com/YgGPao6TTY24n2sT0j2h_Marc-blue_horse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=33cb6cecabc6df60",
               "filename": "Marc-blue_horse.jpg",
               "size": 64018,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/R9O1XwqgQ9ONBrrBIuIa_small_Marc-blue_horse.jpg",
+                  "url": "https://dl.airtable.com/R9O1XwqgQ9ONBrrBIuIa_small_Marc-blue_horse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a94208bb4d782a7f",
                   "width": 27,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/q3MyvV1rTVSmA8iYDgBA_large_Marc-blue_horse.jpg",
+                  "url": "https://dl.airtable.com/q3MyvV1rTVSmA8iYDgBA_large_Marc-blue_horse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=cef63e72f245bfd9",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/3ov9lVXQVyX19PCvJhkQ_full_Marc-blue_horse.jpg",
+                  "url": "https://dl.airtable.com/3ov9lVXQVyX19PCvJhkQ_full_Marc-blue_horse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=948e41303fb5f41e",
                   "width": 576,
                   "height": 771
                 }
@@ -162,23 +169,23 @@
               "id": "attmuEfiwdnFVZwcU",
               "width": 1005,
               "height": 921,
-              "url": "https://dl.airtable.com/au5DRpogT6OHsFvuzxOW_Landscape-with-house-and-two-cows.jpeg",
+              "url": "https://dl.airtable.com/au5DRpogT6OHsFvuzxOW_Landscape-with-house-and-two-cows.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=51e7c522b1b675fd",
               "filename": "Landscape-with-house-and-two-cows.jpeg",
               "size": 596526,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/6RHbPhHRjStMjl3UWbPQ_small_Landscape-with-house-and-two-cows.jpeg",
+                  "url": "https://dl.airtable.com/6RHbPhHRjStMjl3UWbPQ_small_Landscape-with-house-and-two-cows.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1769f725f4de3ca8",
                   "width": 39,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/wUiR9U3TzOyYYavK9jEN_large_Landscape-with-house-and-two-cows.jpeg",
+                  "url": "https://dl.airtable.com/wUiR9U3TzOyYYavK9jEN_large_Landscape-with-house-and-two-cows.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=bdeeae2eab11ced7",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/5S7RNxgdRZGeHtAOFESK_full_Landscape-with-house-and-two-cows.jpeg",
+                  "url": "https://dl.airtable.com/5S7RNxgdRZGeHtAOFESK_full_Landscape-with-house-and-two-cows.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=4110466dcb5afb7b",
                   "width": 1005,
                   "height": 921
                 }
@@ -188,23 +195,23 @@
               "id": "attCmHbTcv0cosnA6",
               "width": 2364,
               "height": 1875,
-              "url": "https://dl.airtable.com/eTiQ8qFRA6r1Dx50JuFV_Marc-blue-black_fox.jpg",
+              "url": "https://dl.airtable.com/eTiQ8qFRA6r1Dx50JuFV_Marc-blue-black_fox.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d6d2151241c9e000",
               "filename": "Marc-blue-black_fox.jpg",
               "size": 4362968,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/6wJdAq2sR9mGe0ANXn8R_small_Marc-blue-black_fox.jpg",
+                  "url": "https://dl.airtable.com/6wJdAq2sR9mGe0ANXn8R_small_Marc-blue-black_fox.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=70ca9c591e217382",
                   "width": 45,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/yjmkQhFQRTKJGqRCsk6d_large_Marc-blue-black_fox.jpg",
+                  "url": "https://dl.airtable.com/yjmkQhFQRTKJGqRCsk6d_large_Marc-blue-black_fox.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b17513dd7c670bc0",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/6WBkYEvNTSK9bBYQHyqm_full_Marc-blue-black_fox.jpg",
+                  "url": "https://dl.airtable.com/6WBkYEvNTSK9bBYQHyqm_full_Marc-blue-black_fox.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=cf70d2349ed3e1ba",
                   "width": 2364,
                   "height": 1875
                 }
@@ -212,14 +219,7 @@
             }
           ],
           "Bio": "Franz Marc was a German painter and printmaker, one of the key figures of the German Expressionist movement. He was a founding member of Der Blaue Reiter (The Blue Rider), a journal whose name later became synonymous with the circle of artists collaborating in it.",
-          "Genre": [
-            "Abstract Expressionism",
-            "Der Blaue Reiter",
-            "Modern art"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
+          "Name": "Franz Marc",
           "On Display?": true
         },
         "geometry": null
@@ -228,29 +228,63 @@
         "type": "Feature",
         "id": "recAFhyiBMTl33ybS",
         "properties": {
-          "Name": "Al Held ",
+          "Pic": [
+            {
+              "id": "attRVBiWVboTRcfVG",
+              "width": 299,
+              "height": 400,
+              "url": "https://dl.airtable.com/.attachments/bbf7d6839ad1b9435e3bf3e7605ce28e/3e1138d3/17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpgPortrait.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=20a997894ede6e84",
+              "filename": "17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpg!Portrait.jpeg",
+              "size": 19156,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/b513e03fb08556739ae134a4438f0aa7/f841ffc7?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f0d7d8ca85f123ea",
+                  "width": 27,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/21dc5c94f05307d55c2ef539fceb6708/dd508850?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=7d386c432acebc69",
+                  "width": 299,
+                  "height": 400
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cf0852b0bc9822b8a39f94f994fe45b0/a90dd34e?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a7db67e90b06a9d5",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "Genre": [
+            "American Abstract Expressionism",
+            "Color Field"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attCE1L8ubR6Ciq80",
               "width": 288,
               "height": 289,
-              "url": "https://dl.airtable.com/RkRN1JXS1WdeHIDdpc1y_Quattro_Centric_XIV.jpg",
+              "url": "https://dl.airtable.com/RkRN1JXS1WdeHIDdpc1y_Quattro_Centric_XIV.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e188ff48efef0bd0",
               "filename": "Quattro_Centric_XIV.jpg",
               "size": 11117,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/LOUSDe4DTxKFkW8xqt2H_small_Quattro_Centric_XIV.jpg",
+                  "url": "https://dl.airtable.com/LOUSDe4DTxKFkW8xqt2H_small_Quattro_Centric_XIV.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=beeee01a39268539",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/IUti1eqbR02sg0u0F4UO_large_Quattro_Centric_XIV.jpg",
+                  "url": "https://dl.airtable.com/IUti1eqbR02sg0u0F4UO_large_Quattro_Centric_XIV.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6e7efc8a3b798da0",
                   "width": 288,
                   "height": 289
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/7JvS3mr7Tdq60Eqf0imi_full_Quattro_Centric_XIV.jpg",
+                  "url": "https://dl.airtable.com/7JvS3mr7Tdq60Eqf0imi_full_Quattro_Centric_XIV.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a032a978cc7dd270",
                   "width": 288,
                   "height": 289
                 }
@@ -260,23 +294,23 @@
               "id": "atthbDUr6hO3NAVoL",
               "width": 640,
               "height": 426,
-              "url": "https://dl.airtable.com/ikY4ByZQdSvXYQqwYZfb_Roberta's_Trip.jpg",
+              "url": "https://dl.airtable.com/ikY4ByZQdSvXYQqwYZfb_Roberta's_Trip.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5777eaae1538bc21",
               "filename": "Roberta's_Trip.jpg",
               "size": 48431,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/nqqZD8OTXCXsi9oCT2gw_small_Roberta's_Trip.jpg",
+                  "url": "https://dl.airtable.com/nqqZD8OTXCXsi9oCT2gw_small_Roberta's_Trip.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2eb64cb9a1e1d5de",
                   "width": 54,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Au4mGpXRrCBqh5IDeua5_large_Roberta's_Trip.jpg",
+                  "url": "https://dl.airtable.com/Au4mGpXRrCBqh5IDeua5_large_Roberta's_Trip.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e33694ef8d96cbe8",
                   "width": 512,
                   "height": 426
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/HsurIW5MSl63sApzLnKN_full_Roberta's_Trip.jpg",
+                  "url": "https://dl.airtable.com/HsurIW5MSl63sApzLnKN_full_Roberta's_Trip.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3962df0737280200",
                   "width": 640,
                   "height": 426
                 }
@@ -286,23 +320,23 @@
               "id": "attrqLTVTRjiIlswF",
               "width": 640,
               "height": 480,
-              "url": "https://dl.airtable.com/AObCFfLRk2NxenW1mNfA_Bruges_III.jpg",
+              "url": "https://dl.airtable.com/AObCFfLRk2NxenW1mNfA_Bruges_III.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6e9ee212b3589e76",
               "filename": "Bruges_III.jpg",
               "size": 241257,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/o6POlzcSVSXCYAwwEsI1_small_Bruges_III.jpg",
+                  "url": "https://dl.airtable.com/o6POlzcSVSXCYAwwEsI1_small_Bruges_III.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=47845a5d11f8b4c5",
                   "width": 48,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/uOKQ5taXQg4PgAuocXFg_large_Bruges_III.jpg",
+                  "url": "https://dl.airtable.com/uOKQ5taXQg4PgAuocXFg_large_Bruges_III.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d405fe6658aad4c4",
                   "width": 512,
                   "height": 480
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/DVkMv2w3ROZ87tm0tyaw_full_Bruges_III.jpg",
+                  "url": "https://dl.airtable.com/DVkMv2w3ROZ87tm0tyaw_full_Bruges_III.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1cd5b74b768d1001",
                   "width": 640,
                   "height": 480
                 }
@@ -312,23 +346,23 @@
               "id": "attQ4txWAL0Yztilg",
               "width": 716,
               "height": 720,
-              "url": "https://dl.airtable.com/ozLtZrfbRxeiKeDHLA2i_Vorcex_II.jpg",
+              "url": "https://dl.airtable.com/ozLtZrfbRxeiKeDHLA2i_Vorcex_II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a1891e10f5517d07",
               "filename": "Vorcex_II.jpg",
               "size": 217620,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/0TXnkEGzQ0mb2RorzAUl_small_Vorcex_II.jpg",
+                  "url": "https://dl.airtable.com/0TXnkEGzQ0mb2RorzAUl_small_Vorcex_II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=52259b5f32d0824b",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/VWAUkHtGRiO6JB2gWlcS_large_Vorcex_II.jpg",
+                  "url": "https://dl.airtable.com/VWAUkHtGRiO6JB2gWlcS_large_Vorcex_II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=da966e601d4c18de",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/EiEV21NWRHamKEpA7Z5V_full_Vorcex_II.jpg",
+                  "url": "https://dl.airtable.com/EiEV21NWRHamKEpA7Z5V_full_Vorcex_II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2b7b81b6f8ef8ac1",
                   "width": 716,
                   "height": 720
                 }
@@ -336,42 +370,8 @@
             }
           ],
           "Bio": "Al Held began his painting career by exhibiting Abstract Expressionist works in New York; he later turned to hard-edged geometric paintings that were dubbed “concrete abstractions”. In the late 1960s Held began to challenge the flatness he perceived in even the most modernist painting styles, breaking up the picture plane with suggestions of deep space and three-dimensional form; he would later reintroduce eye-popping colors into his canvases. In vast compositions, Held painted geometric forms in space, constituting what have been described as reinterpretations of Cubism.",
-          "Genre": [
-            "American Abstract Expressionism",
-            "Color Field"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
-          "On Display?": true,
-          "Pic": [
-            {
-              "id": "attRVBiWVboTRcfVG",
-              "width": 299,
-              "height": 400,
-              "url": "https://dl.airtable.com/.attachments/bbf7d6839ad1b9435e3bf3e7605ce28e/3e1138d3/17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpgPortrait.jpeg",
-              "filename": "17fbeff1-6631-4864-89ed-e2c29b65c2e1_jpg!Portrait.jpeg",
-              "size": 19156,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/b513e03fb08556739ae134a4438f0aa7/f841ffc7",
-                  "width": 27,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/21dc5c94f05307d55c2ef539fceb6708/dd508850",
-                  "width": 299,
-                  "height": 400
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/cf0852b0bc9822b8a39f94f994fe45b0/a90dd34e",
-                  "width": 3000,
-                  "height": 3000
-                }
-              }
-            }
-          ]
+          "Name": "Al Held ",
+          "On Display?": true
         },
         "geometry": null
       },
@@ -379,29 +379,36 @@
         "type": "Feature",
         "id": "recBUGELBca0VVpUF",
         "properties": {
-          "Name": "Frida Kahlo",
+          "Genre": [
+            "Symbolism",
+            "Surrealism",
+            "Magical Realism"
+          ],
+          "Collection": [
+            "rec0KryE2r7MKf3TC"
+          ],
           "Attachments": [
             {
               "id": "atta5gcEcWYRZOzMo",
               "width": 384,
               "height": 500,
-              "url": "https://dl.airtable.com/jyWzzplfSVmutxnCGtBQ_Frida_Kahlo_(self_portrait).jpg",
+              "url": "https://dl.airtable.com/jyWzzplfSVmutxnCGtBQ_Frida_Kahlo_(self_portrait).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=4451d660a9038138",
               "filename": "Frida_Kahlo_(self_portrait).jpg",
               "size": 181185,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/tZIFHOJyTpyzshToPDAl_small_Frida_Kahlo_(self_portrait).jpg",
+                  "url": "https://dl.airtable.com/tZIFHOJyTpyzshToPDAl_small_Frida_Kahlo_(self_portrait).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=248fdb3730fbe6ce",
                   "width": 28,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/1t9IX38MSeuKp3bqKimV_large_Frida_Kahlo_(self_portrait).jpg",
+                  "url": "https://dl.airtable.com/1t9IX38MSeuKp3bqKimV_large_Frida_Kahlo_(self_portrait).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=dfdc5fe36588028a",
                   "width": 384,
                   "height": 500
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/T5CWHG6YTyGfxxu1fTDA_full_Frida_Kahlo_(self_portrait).jpg",
+                  "url": "https://dl.airtable.com/T5CWHG6YTyGfxxu1fTDA_full_Frida_Kahlo_(self_portrait).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=4a544bea6715b3a1",
                   "width": 384,
                   "height": 500
                 }
@@ -411,23 +418,23 @@
               "id": "attIEbvFp9Zz9mRdL",
               "width": 364,
               "height": 438,
-              "url": "https://dl.airtable.com/I6eUH88TgSSkgAuvPwRS_Suicide_of_Dorothy_Hale.jpg",
+              "url": "https://dl.airtable.com/I6eUH88TgSSkgAuvPwRS_Suicide_of_Dorothy_Hale.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c6bddac56cc97637",
               "filename": "Suicide_of_Dorothy_Hale.jpg",
               "size": 44186,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/79LSMNFYRTy3TXgprloZ_small_Suicide_of_Dorothy_Hale.jpg",
+                  "url": "https://dl.airtable.com/79LSMNFYRTy3TXgprloZ_small_Suicide_of_Dorothy_Hale.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d58e34644f53e6ff",
                   "width": 30,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/AQnIG2MfQt6jR0ZKPZfy_large_Suicide_of_Dorothy_Hale.jpg",
+                  "url": "https://dl.airtable.com/AQnIG2MfQt6jR0ZKPZfy_large_Suicide_of_Dorothy_Hale.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=89b9bab5659ad115",
                   "width": 364,
                   "height": 438
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/VVYNNUVlQ2CGr8JuRhiW_full_Suicide_of_Dorothy_Hale.jpg",
+                  "url": "https://dl.airtable.com/VVYNNUVlQ2CGr8JuRhiW_full_Suicide_of_Dorothy_Hale.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5c5ceff4bac58382",
                   "width": 364,
                   "height": 438
                 }
@@ -437,23 +444,23 @@
               "id": "atti1EHByuYQyPpO4",
               "width": 468,
               "height": 450,
-              "url": "https://dl.airtable.com/YLGaOFWCQTu6VzwZ72UX_las-dos-fridas.jpg",
+              "url": "https://dl.airtable.com/YLGaOFWCQTu6VzwZ72UX_las-dos-fridas.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8aac2ac53bedf8cd",
               "filename": "las-dos-fridas.jpg",
               "size": 89261,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/Ks2nfxTPRkSqeuafeUu8_small_las-dos-fridas.jpg",
+                  "url": "https://dl.airtable.com/Ks2nfxTPRkSqeuafeUu8_small_las-dos-fridas.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3712cafa7b29761e",
                   "width": 37,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/iRD0vV8uTreSlrnVs8Hw_large_las-dos-fridas.jpg",
+                  "url": "https://dl.airtable.com/iRD0vV8uTreSlrnVs8Hw_large_las-dos-fridas.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2cc1f7ff1453fc9e",
                   "width": 468,
                   "height": 450
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/9cMZJlA9Rum6TG4Nh9y9_full_las-dos-fridas.jpg",
+                  "url": "https://dl.airtable.com/9cMZJlA9Rum6TG4Nh9y9_full_las-dos-fridas.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d4d9f2c473368b8f",
                   "width": 468,
                   "height": 450
                 }
@@ -463,23 +470,23 @@
               "id": "att6d9tIIxzi4TEQY",
               "width": 2237,
               "height": 1737,
-              "url": "https://dl.airtable.com/bewSUzxUT1K8zrxCXeUo_the-wounded-deer-1946.jpg",
+              "url": "https://dl.airtable.com/bewSUzxUT1K8zrxCXeUo_the-wounded-deer-1946.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a36f9432fab5b533",
               "filename": "the-wounded-deer-1946.jpg",
               "size": 1439672,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/aWzStocBRY28VAOphUMd_small_the-wounded-deer-1946.jpg",
+                  "url": "https://dl.airtable.com/aWzStocBRY28VAOphUMd_small_the-wounded-deer-1946.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1fb8407de551e46f",
                   "width": 46,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/p15hHNPATOqh4pS61g7P_large_the-wounded-deer-1946.jpg",
+                  "url": "https://dl.airtable.com/p15hHNPATOqh4pS61g7P_large_the-wounded-deer-1946.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8a0b3ea2c05cd350",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/7F6Mrzc7RMGIfGxFjpjo_full_the-wounded-deer-1946.jpg",
+                  "url": "https://dl.airtable.com/7F6Mrzc7RMGIfGxFjpjo_full_the-wounded-deer-1946.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ddb4d9141f8e797d",
                   "width": 2237,
                   "height": 1737
                 }
@@ -487,14 +494,7 @@
             }
           ],
           "Bio": "Frida Kahlo de Rivera was a Mexican painter best known for her self-portraits. Kahlo's life began and ended in Mexico City, in her home known as the Blue House. Her work has been celebrated in Mexico as emblematic of national and indigenous tradition and by feminists for its uncompromising depiction of the female experience and form.",
-          "Genre": [
-            "Symbolism",
-            "Surrealism",
-            "Magical Realism"
-          ],
-          "Collection": [
-            "rec0KryE2r7MKf3TC"
-          ]
+          "Name": "Frida Kahlo"
         },
         "geometry": null
       },
@@ -502,29 +502,35 @@
         "type": "Feature",
         "id": "recCBH2XMeueYzHqD",
         "properties": {
-          "Name": "Arshile Gorky",
+          "Genre": [
+            "Abstract Expressionism",
+            "Modern art"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attwiwoecIfWHYlWm",
               "width": 340,
               "height": 446,
-              "url": "https://dl.airtable.com/x1y9Rp20RMe6vUqwoxf2_Master-Bill.jpg",
+              "url": "https://dl.airtable.com/x1y9Rp20RMe6vUqwoxf2_Master-Bill.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e1f4ebc2aa06b4a8",
               "filename": "Master-Bill.jpg",
               "size": 22409,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/J5OuDLapQMmWIU6Ejcj0_small_Master-Bill.jpg",
+                  "url": "https://dl.airtable.com/J5OuDLapQMmWIU6Ejcj0_small_Master-Bill.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=60dc31d0a18218d6",
                   "width": 27,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/GvZb8g5STk2hyc858doG_large_Master-Bill.jpg",
+                  "url": "https://dl.airtable.com/GvZb8g5STk2hyc858doG_large_Master-Bill.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9524c9274ca3db16",
                   "width": 340,
                   "height": 446
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/3vePaL5RJGB3udbOgzv5_full_Master-Bill.jpg",
+                  "url": "https://dl.airtable.com/3vePaL5RJGB3udbOgzv5_full_Master-Bill.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=83029af2e7b76019",
                   "width": 340,
                   "height": 446
                 }
@@ -534,23 +540,23 @@
               "id": "att07dHx1LHNHRBmA",
               "width": 440,
               "height": 326,
-              "url": "https://dl.airtable.com/0QcnxAGRJCbgETKyt6Fa_The_Liver_Is_The_Cock's_Comb.jpg",
+              "url": "https://dl.airtable.com/0QcnxAGRJCbgETKyt6Fa_The_Liver_Is_The_Cock's_Comb.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d8681d779d56b1da",
               "filename": "The_Liver_Is_The_Cock's_Comb.jpg",
               "size": 71679,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/zzeFWkGPRNqLZ8ebliX1_small_The_Liver_Is_The_Cock's_Comb.jpg",
+                  "url": "https://dl.airtable.com/zzeFWkGPRNqLZ8ebliX1_small_The_Liver_Is_The_Cock's_Comb.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=439fce3f0d215af8",
                   "width": 49,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/95dbH8PTTzCVA8qtqD3S_large_The_Liver_Is_The_Cock's_Comb.jpg",
+                  "url": "https://dl.airtable.com/95dbH8PTTzCVA8qtqD3S_large_The_Liver_Is_The_Cock's_Comb.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5164083af2fc6fa1",
                   "width": 440,
                   "height": 326
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/K8flcwXXRgONC50Wt1XZ_full_The_Liver_Is_The_Cock's_Comb.jpg",
+                  "url": "https://dl.airtable.com/K8flcwXXRgONC50Wt1XZ_full_The_Liver_Is_The_Cock's_Comb.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=83c4cc84a7d418b9",
                   "width": 440,
                   "height": 326
                 }
@@ -560,23 +566,23 @@
               "id": "attzVTQd6Xpi1EGqp",
               "width": 1366,
               "height": 971,
-              "url": "https://dl.airtable.com/RxxKHt90TTeitDBmqfkp_Garden-in-Sochi-1941.jpg",
+              "url": "https://dl.airtable.com/RxxKHt90TTeitDBmqfkp_Garden-in-Sochi-1941.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b52762e96f14764a",
               "filename": "Garden-in-Sochi-1941.jpg",
               "size": 400575,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/OwtE5NmRtawB4ubqI6GP_small_Garden-in-Sochi-1941.jpg",
+                  "url": "https://dl.airtable.com/OwtE5NmRtawB4ubqI6GP_small_Garden-in-Sochi-1941.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8c8412c9301b86fd",
                   "width": 51,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/3erjc5N6Rhm4gGKU2kzK_large_Garden-in-Sochi-1941.jpg",
+                  "url": "https://dl.airtable.com/3erjc5N6Rhm4gGKU2kzK_large_Garden-in-Sochi-1941.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0dd0d76b36a4299b",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/PwCdFFgSmaReJLigtnEq_full_Garden-in-Sochi-1941.jpg",
+                  "url": "https://dl.airtable.com/PwCdFFgSmaReJLigtnEq_full_Garden-in-Sochi-1941.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ac2a77116364eb94",
                   "width": 1366,
                   "height": 971
                 }
@@ -584,13 +590,7 @@
             }
           ],
           "Bio": "Arshile Gorky had a seminal influence on Abstract Expressionism. As such, his works were often speculated to have been informed by the suffering and loss he experienced of the Armenian Genocide.\n",
-          "Genre": [
-            "Abstract Expressionism",
-            "Modern art"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
+          "Name": "Arshile Gorky",
           "On Display?": true
         },
         "geometry": null
@@ -599,29 +599,36 @@
         "type": "Feature",
         "id": "recEkBCofgQavIdKo",
         "properties": {
-          "Name": "Edvard Munch",
+          "Genre": [
+            "Abstract Expressionism",
+            "Modern art",
+            "Surrealism"
+          ],
+          "Collection": [
+            "rec0KryE2r7MKf3TC"
+          ],
           "Attachments": [
             {
               "id": "attNIEYhExe4q53lp",
               "width": 1000,
               "height": 579,
-              "url": "https://dl.airtable.com/ZrAa1VHgRluhGihjoJlg_The_Sun.jpg",
+              "url": "https://dl.airtable.com/ZrAa1VHgRluhGihjoJlg_The_Sun.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e750f63f00f0f260",
               "filename": "The_Sun.jpg",
               "size": 194051,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/MYAGR1B9SSmgLQEwdQgg_small_The_Sun.jpg",
+                  "url": "https://dl.airtable.com/MYAGR1B9SSmgLQEwdQgg_small_The_Sun.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=12f0d0d8f6832fb3",
                   "width": 62,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/YHJpBuCQTlaPh87v95TW_large_The_Sun.jpg",
+                  "url": "https://dl.airtable.com/YHJpBuCQTlaPh87v95TW_large_The_Sun.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fc946e98be2149b4",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/0ThfL9nQSy1p6fGcC2PQ_full_The_Sun.jpg",
+                  "url": "https://dl.airtable.com/0ThfL9nQSy1p6fGcC2PQ_full_The_Sun.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9cf502775df07664",
                   "width": 1000,
                   "height": 579
                 }
@@ -631,23 +638,23 @@
               "id": "attVjzN5X8xdWoc2W",
               "width": 1458,
               "height": 1500,
-              "url": "https://dl.airtable.com/mSFaqPdrSzaLsNeOM7gC_Munch_Det_Syke_Barn_1896.jpg",
+              "url": "https://dl.airtable.com/mSFaqPdrSzaLsNeOM7gC_Munch_Det_Syke_Barn_1896.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c72ee54e76e4eb99",
               "filename": "Munch_Det_Syke_Barn_1896.jpg",
               "size": 425603,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/fSNluujMSdSesFHx5mJV_small_Munch_Det_Syke_Barn_1896.jpg",
+                  "url": "https://dl.airtable.com/fSNluujMSdSesFHx5mJV_small_Munch_Det_Syke_Barn_1896.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=39a7abcc64db3a33",
                   "width": 35,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/VVpi4DxYQIeHdoStBriP_large_Munch_Det_Syke_Barn_1896.jpg",
+                  "url": "https://dl.airtable.com/VVpi4DxYQIeHdoStBriP_large_Munch_Det_Syke_Barn_1896.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=23a6843382c46ebd",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/jOd0FXchSiiqZYOpdiGe_full_Munch_Det_Syke_Barn_1896.jpg",
+                  "url": "https://dl.airtable.com/jOd0FXchSiiqZYOpdiGe_full_Munch_Det_Syke_Barn_1896.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ed1dc7c52de48f79",
                   "width": 1458,
                   "height": 1500
                 }
@@ -657,23 +664,23 @@
               "id": "attnTOZBfCiHQhfy1",
               "width": 850,
               "height": 765,
-              "url": "https://dl.airtable.com/0USjT35QmmxqiQjxpjJZ_death-in-the-sickroom.jpg",
+              "url": "https://dl.airtable.com/0USjT35QmmxqiQjxpjJZ_death-in-the-sickroom.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=59aab8a85da13d0f",
               "filename": "death-in-the-sickroom.jpg",
               "size": 255101,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/lzialq0ARTiF858WBL2K_small_death-in-the-sickroom.jpg",
+                  "url": "https://dl.airtable.com/lzialq0ARTiF858WBL2K_small_death-in-the-sickroom.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2f119751a9fe41a5",
                   "width": 40,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/D2jX8wuiQFqu6PqmDlB9_large_death-in-the-sickroom.jpg",
+                  "url": "https://dl.airtable.com/D2jX8wuiQFqu6PqmDlB9_large_death-in-the-sickroom.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1fa7e5a8a074a63f",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/pgANoMx7S2WzNSFjcQH6_full_death-in-the-sickroom.jpg",
+                  "url": "https://dl.airtable.com/pgANoMx7S2WzNSFjcQH6_full_death-in-the-sickroom.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fbdc67220b4ef034",
                   "width": 850,
                   "height": 765
                 }
@@ -681,14 +688,7 @@
             }
           ],
           "Bio": "Edvard Munch was a Norwegian painter and printmaker whose intensely evocative treatment of psychological themes built upon some of the main tenets of late 19th-century Symbolism and greatly influenced German Expressionism in the early 20th century. One of his most well-known works is The Scream of 1893.\n",
-          "Genre": [
-            "Abstract Expressionism",
-            "Modern art",
-            "Surrealism"
-          ],
-          "Collection": [
-            "rec0KryE2r7MKf3TC"
-          ]
+          "Name": "Edvard Munch"
         },
         "geometry": null
       },
@@ -696,29 +696,34 @@
         "type": "Feature",
         "id": "recJgVgtt7S1xT2MQ",
         "properties": {
-          "Name": "Louisa Matthíasdóttir",
+          "Genre": [
+            "Abstract Expressionism"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attUUlhCqFv2ToEuH",
               "width": 944,
               "height": 1372,
-              "url": "https://dl.airtable.com/9xxNlqknSrmEU1Wbrdec_Self%20Portrait%20in%20Long%20Striped%20Sweater.png",
+              "url": "https://dl.airtable.com/9xxNlqknSrmEU1Wbrdec_Self%20Portrait%20in%20Long%20Striped%20Sweater.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=87df4e59fa7ef5e7",
               "filename": "Self Portrait in Long Striped Sweater.png",
               "size": 2008952,
               "type": "image/png",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/ptkkDheTjGrkUu2hOaiw_small_Self%20Portrait%20in%20Long%20Striped%20Sweater.png",
+                  "url": "https://dl.airtable.com/ptkkDheTjGrkUu2hOaiw_small_Self%20Portrait%20in%20Long%20Striped%20Sweater.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=54a3d46988342877",
                   "width": 25,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/FumcBwrBR8S92tvlKzOp_large_Self%20Portrait%20in%20Long%20Striped%20Sweater.png",
+                  "url": "https://dl.airtable.com/FumcBwrBR8S92tvlKzOp_large_Self%20Portrait%20in%20Long%20Striped%20Sweater.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5e2fc57ff356efbf",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/SM8X0O6RTrySmMNshpbA_full_Self%20Portrait%20in%20Long%20Striped%20Sweater.png",
+                  "url": "https://dl.airtable.com/SM8X0O6RTrySmMNshpbA_full_Self%20Portrait%20in%20Long%20Striped%20Sweater.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ff0915d7d4565faf",
                   "width": 944,
                   "height": 1372
                 }
@@ -728,23 +733,23 @@
               "id": "attNcKhQ3sHfw0Foq",
               "width": 1404,
               "height": 950,
-              "url": "https://dl.airtable.com/Yzdh0bO8Qfm3pNAQki2H_louisa_matthiasdottir.jpg",
+              "url": "https://dl.airtable.com/Yzdh0bO8Qfm3pNAQki2H_louisa_matthiasdottir.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=40ed82b8461b98b6",
               "filename": "louisa_matthiasdottir.jpg",
               "size": 361513,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/JfkRJPIHRNysMmgzJqNx_small_louisa_matthiasdottir.jpg",
+                  "url": "https://dl.airtable.com/JfkRJPIHRNysMmgzJqNx_small_louisa_matthiasdottir.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=04d23cb984b37a91",
                   "width": 53,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/L4WkMOsVRHuvu8IUCyw8_large_louisa_matthiasdottir.jpg",
+                  "url": "https://dl.airtable.com/L4WkMOsVRHuvu8IUCyw8_large_louisa_matthiasdottir.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=991d94f3115d4b38",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/hMWqCyhrSZW3Hck2aPEf_full_louisa_matthiasdottir.jpg",
+                  "url": "https://dl.airtable.com/hMWqCyhrSZW3Hck2aPEf_full_louisa_matthiasdottir.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8575b6954a2ab5a5",
                   "width": 1404,
                   "height": 950
                 }
@@ -754,23 +759,23 @@
               "id": "atthrZ5E00cl6dlRb",
               "width": 508,
               "height": 397,
-              "url": "https://dl.airtable.com/P37MwE7FTSScdgcy5Vhj_self-portrait-in-landscape.jpg",
+              "url": "https://dl.airtable.com/P37MwE7FTSScdgcy5Vhj_self-portrait-in-landscape.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=049205db27e9abb1",
               "filename": "self-portrait-in-landscape.jpg",
               "size": 23154,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/bQjyuN2BSQBxzCd4GHy3_small_self-portrait-in-landscape.jpg",
+                  "url": "https://dl.airtable.com/bQjyuN2BSQBxzCd4GHy3_small_self-portrait-in-landscape.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6fb9c752eb8fab42",
                   "width": 46,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/frlih5FlSbmHtJAByOJD_large_self-portrait-in-landscape.jpg",
+                  "url": "https://dl.airtable.com/frlih5FlSbmHtJAByOJD_large_self-portrait-in-landscape.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c84f6a7d5d89bfe5",
                   "width": 508,
                   "height": 397
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/TZPQBZhTeuYq3YEEKr58_full_self-portrait-in-landscape.jpg",
+                  "url": "https://dl.airtable.com/TZPQBZhTeuYq3YEEKr58_full_self-portrait-in-landscape.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=017b2d2b252a0b6a",
                   "width": 508,
                   "height": 397
                 }
@@ -778,12 +783,7 @@
             }
           ],
           "Bio": "Matthíasdóttir was born in Reykjavík. She showed artistic ability at an early age, and studied first in Denmark and then under Marcel Gromaire in Paris. Her early paintings, dating from the late 1930s, established her as a leading figure in the Icelandic avant-garde community (many of whom met together in a house in Reykjavík called Unuhús). In these paintings, subjects are painted with a broad brush, emphasizing geometric form. These paintings already show much of the character of Matthíasdóttir's mature work, but are more subdued in color.",
-          "Genre": [
-            "Abstract Expressionism"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
+          "Name": "Louisa Matthíasdóttir",
           "On Display?": true
         },
         "geometry": null
@@ -792,29 +792,35 @@
         "type": "Feature",
         "id": "recLe2ymhrOZksU68",
         "properties": {
-          "Name": "Hans Hofmann",
+          "Genre": [
+            "Abstract Expressionism",
+            "Modern art"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attfVD69ey1joo2GZ",
               "width": 368,
               "height": 573,
-              "url": "https://dl.airtable.com/2lOTCfQERxGMtXbsMDrr_The_Gate.jpg",
+              "url": "https://dl.airtable.com/2lOTCfQERxGMtXbsMDrr_The_Gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ee961911996e4596",
               "filename": "The_Gate.jpg",
               "size": 67939,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/mxP2tAWGTPC4HRzhuSxW_small_The_Gate.jpg",
+                  "url": "https://dl.airtable.com/mxP2tAWGTPC4HRzhuSxW_small_The_Gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=93afb54920c1f247",
                   "width": 23,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Fh11UdjTJaoWn0OwYSkj_large_The_Gate.jpg",
+                  "url": "https://dl.airtable.com/Fh11UdjTJaoWn0OwYSkj_large_The_Gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e961e0860fdb7da7",
                   "width": 368,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/NioPizJS0uru7U2Stc5m_full_The_Gate.jpg",
+                  "url": "https://dl.airtable.com/NioPizJS0uru7U2Stc5m_full_The_Gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=135636e16153aaa7",
                   "width": 368,
                   "height": 573
                 }
@@ -824,23 +830,23 @@
               "id": "attJIFcw31jvBQDfh",
               "width": 1220,
               "height": 1600,
-              "url": "https://dl.airtable.com/U0UXnbqcSCWKpfq50MeP_the-conjuror.jpg",
+              "url": "https://dl.airtable.com/U0UXnbqcSCWKpfq50MeP_the-conjuror.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=61c7ec0d074e1fc7",
               "filename": "the-conjuror.jpg",
               "size": 1075086,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/Fgt3al9fQPipXEHkZNDZ_small_the-conjuror.jpg",
+                  "url": "https://dl.airtable.com/Fgt3al9fQPipXEHkZNDZ_small_the-conjuror.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=80068b9ad919fe76",
                   "width": 27,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/X9JFMxgEQkGN5voPJaDi_large_the-conjuror.jpg",
+                  "url": "https://dl.airtable.com/X9JFMxgEQkGN5voPJaDi_large_the-conjuror.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=deaa9c8102262db3",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/n8oZ3URC6CeBPkOokAhi_full_the-conjuror.jpg",
+                  "url": "https://dl.airtable.com/n8oZ3URC6CeBPkOokAhi_full_the-conjuror.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=4e20b304c4180f69",
                   "width": 1220,
                   "height": 1600
                 }
@@ -850,23 +856,23 @@
               "id": "attrETA1O9dz9veTf",
               "width": 1015,
               "height": 1202,
-              "url": "https://dl.airtable.com/45lmaXUOT9uNLDohoN9n_fruit-bowl-with-apples.png",
+              "url": "https://dl.airtable.com/45lmaXUOT9uNLDohoN9n_fruit-bowl-with-apples.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=02a8b0ebeb08f839",
               "filename": "fruit-bowl-with-apples.png",
               "size": 2306263,
               "type": "image/png",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/vozEA4j5RXWFGQpfSrqL_small_fruit-bowl-with-apples.png",
+                  "url": "https://dl.airtable.com/vozEA4j5RXWFGQpfSrqL_small_fruit-bowl-with-apples.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=139ee8248d3190c3",
                   "width": 30,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/rcVGyKY9TeOWFiIn5rAf_large_fruit-bowl-with-apples.png",
+                  "url": "https://dl.airtable.com/rcVGyKY9TeOWFiIn5rAf_large_fruit-bowl-with-apples.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=579e917ab34aac94",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/5Vf8xv69T8O9ncobaI0c_full_fruit-bowl-with-apples.png",
+                  "url": "https://dl.airtable.com/5Vf8xv69T8O9ncobaI0c_full_fruit-bowl-with-apples.png?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0fb32093afd4d776",
                   "width": 1015,
                   "height": 1202
                 }
@@ -876,23 +882,23 @@
               "id": "attcQ7g8JDAA1FgEZ",
               "width": 800,
               "height": 676,
-              "url": "https://dl.airtable.com/u1aeqCxSQ96B28sCGRYq_the-golden-wall.jpg",
+              "url": "https://dl.airtable.com/u1aeqCxSQ96B28sCGRYq_the-golden-wall.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=084190aa5ccea5dd",
               "filename": "the-golden-wall.jpg",
               "size": 154804,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/4koYYgeWQjegASs1YYjH_small_the-golden-wall.jpg",
+                  "url": "https://dl.airtable.com/4koYYgeWQjegASs1YYjH_small_the-golden-wall.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=29f443cd557664cc",
                   "width": 43,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/nx23ZVrRIeKJEEZibTLM_large_the-golden-wall.jpg",
+                  "url": "https://dl.airtable.com/nx23ZVrRIeKJEEZibTLM_large_the-golden-wall.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1014fb19ffd8d45f",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/ITtPo1kNTUytRw7quO3A_full_the-golden-wall.jpg",
+                  "url": "https://dl.airtable.com/ITtPo1kNTUytRw7quO3A_full_the-golden-wall.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a896b05649ea7c86",
                   "width": 800,
                   "height": 676
                 }
@@ -900,13 +906,7 @@
             }
           ],
           "Bio": "Hans Hofmann was a German-born American abstract expressionist painter.",
-          "Genre": [
-            "Abstract Expressionism",
-            "Modern art"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
+          "Name": "Hans Hofmann",
           "On Display?": true
         },
         "geometry": null
@@ -915,29 +915,34 @@
         "type": "Feature",
         "id": "recNdT2SiqCTxZfAD",
         "properties": {
-          "Name": "Isamu Noguchi",
+          "Genre": [
+            "Experimental Sculpture"
+          ],
+          "Collection": [
+            "recGgfE5NkJLXC2L7"
+          ],
           "Attachments": [
             {
               "id": "attuoGtQSGoeWEurX",
               "width": 640,
               "height": 487,
-              "url": "https://dl.airtable.com/dcVDcrL2TgOsCiyZ4MXg_Leda.jpeg",
+              "url": "https://dl.airtable.com/dcVDcrL2TgOsCiyZ4MXg_Leda.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=94c479e72c59f84f",
               "filename": "Leda.jpeg",
               "size": 55738,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/luUgOYKJSQewPuXwJi1D_small_Leda.jpeg",
+                  "url": "https://dl.airtable.com/luUgOYKJSQewPuXwJi1D_small_Leda.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=50a5f4ba28492111",
                   "width": 47,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/I1WvPxSYTDmzFGLWDECY_large_Leda.jpeg",
+                  "url": "https://dl.airtable.com/I1WvPxSYTDmzFGLWDECY_large_Leda.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1968a6b93d06b0bf",
                   "width": 512,
                   "height": 487
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/0owq88p5Sfuvytk1RuDg_full_Leda.jpeg",
+                  "url": "https://dl.airtable.com/0owq88p5Sfuvytk1RuDg_full_Leda.jpeg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e60432417106e554",
                   "width": 640,
                   "height": 487
                 }
@@ -947,23 +952,23 @@
               "id": "att4MPT0gu8r2DZdv",
               "width": 414,
               "height": 526,
-              "url": "https://dl.airtable.com/7N4EIfmBTSKiYxDOxTJA_Mother_and_child.jpg",
+              "url": "https://dl.airtable.com/7N4EIfmBTSKiYxDOxTJA_Mother_and_child.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=35a565a510346d04",
               "filename": "Mother_and_child.jpg",
               "size": 38679,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/a9oh3MZGSKWEPzDP9ux7_small_Mother_and_child.jpg",
+                  "url": "https://dl.airtable.com/a9oh3MZGSKWEPzDP9ux7_small_Mother_and_child.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=762a081e6a94c96c",
                   "width": 28,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/xdLWJVfRjmiOFc45XFEA_large_Mother_and_child.jpg",
+                  "url": "https://dl.airtable.com/xdLWJVfRjmiOFc45XFEA_large_Mother_and_child.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3446fb1190e7bc9a",
                   "width": 414,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/LzA0PE8KQ3C9Hn5ZHWy8_full_Mother_and_child.jpg",
+                  "url": "https://dl.airtable.com/LzA0PE8KQ3C9Hn5ZHWy8_full_Mother_and_child.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=bcb3774263313c40",
                   "width": 414,
                   "height": 526
                 }
@@ -973,23 +978,23 @@
               "id": "attsGNtljepdSppj3",
               "width": 3694,
               "height": 2916,
-              "url": "https://dl.airtable.com/Qr8zAePS1GSN04Ju741P_Sky-gate.jpg",
+              "url": "https://dl.airtable.com/Qr8zAePS1GSN04Ju741P_Sky-gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=20073aaa0aaf8f80",
               "filename": "Sky-gate.jpg",
               "size": 10002210,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/JwAtRGKaSZOVSd1ku0Nn_small_Sky-gate.jpg",
+                  "url": "https://dl.airtable.com/JwAtRGKaSZOVSd1ku0Nn_small_Sky-gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=871d82d1b968c628",
                   "width": 46,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/bg89ke5gTse8DLj9Qs7o_large_Sky-gate.jpg",
+                  "url": "https://dl.airtable.com/bg89ke5gTse8DLj9Qs7o_large_Sky-gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e9e10f366df7648a",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/f3Qi1iP7QYe837hhLHX4_full_Sky-gate.jpg",
+                  "url": "https://dl.airtable.com/f3Qi1iP7QYe837hhLHX4_full_Sky-gate.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e8b371e269b111e2",
                   "width": 3000,
                   "height": 2368
                 }
@@ -999,23 +1004,23 @@
               "id": "attpYKQ4gldei2tWd",
               "width": 960,
               "height": 696,
-              "url": "https://dl.airtable.com/QwJhSeRxSWus1DDrD1Mg_Akari_Lamps.jpg",
+              "url": "https://dl.airtable.com/QwJhSeRxSWus1DDrD1Mg_Akari_Lamps.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=edbfd54ccf10271b",
               "filename": "Akari_Lamps.jpg",
               "size": 110954,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/A8sE3KRsSikA16zTkT83_small_Akari_Lamps.jpg",
+                  "url": "https://dl.airtable.com/A8sE3KRsSikA16zTkT83_small_Akari_Lamps.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ce879e469af76a51",
                   "width": 50,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/DK9QBQkZQGWwOGzvAPxh_large_Akari_Lamps.jpg",
+                  "url": "https://dl.airtable.com/DK9QBQkZQGWwOGzvAPxh_large_Akari_Lamps.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f6116795e6f4403a",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/mtvYTSeNT8OKtlxht7HQ_full_Akari_Lamps.jpg",
+                  "url": "https://dl.airtable.com/mtvYTSeNT8OKtlxht7HQ_full_Akari_Lamps.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ead0d5d178fe6e69",
                   "width": 960,
                   "height": 696
                 }
@@ -1023,12 +1028,7 @@
             }
           ],
           "Bio": "Isamu Noguchi (野口 勇) was a prominent Japanese American artist and landscape architect whose artistic career spanned six decades, from the 1920s onward. Known for his sculpture and public works, Noguchi also designed stage sets for various Martha Graham productions, and several mass-produced lamps and furniture pieces, some of which are still manufactured and sold.",
-          "Genre": [
-            "Experimental Sculpture"
-          ],
-          "Collection": [
-            "recGgfE5NkJLXC2L7"
-          ],
+          "Name": "Isamu Noguchi",
           "On Display?": true
         },
         "geometry": null
@@ -1037,29 +1037,36 @@
         "type": "Feature",
         "id": "recQz0RBwgqS3dDIh",
         "properties": {
-          "Name": "Alexander Calder",
+          "Genre": [
+            "Surrealism",
+            "Modern art",
+            "Kinetic Art"
+          ],
+          "Collection": [
+            "recGgfE5NkJLXC2L7"
+          ],
           "Attachments": [
             {
               "id": "attqtSbhqauz3DYZZ",
               "width": 1142,
               "height": 1024,
-              "url": "https://dl.airtable.com/qK5v7aWSuWVa5oMPLLfR_untitled.jpg",
+              "url": "https://dl.airtable.com/qK5v7aWSuWVa5oMPLLfR_untitled.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fbf03ef8c229dd72",
               "filename": "untitled.jpg",
               "size": 158060,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/VX5y7KInSOCPjhkQFS6p_small_untitled.jpg",
+                  "url": "https://dl.airtable.com/VX5y7KInSOCPjhkQFS6p_small_untitled.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=db5a28bec838d72b",
                   "width": 40,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/IBmdRhBPSCGv8E8a8fRA_large_untitled.jpg",
+                  "url": "https://dl.airtable.com/IBmdRhBPSCGv8E8a8fRA_large_untitled.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1fa9172de46357f8",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/2KvZybESziOZikLyzoiP_full_untitled.jpg",
+                  "url": "https://dl.airtable.com/2KvZybESziOZikLyzoiP_full_untitled.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=27527167cd641ba8",
                   "width": 1142,
                   "height": 1024
                 }
@@ -1069,23 +1076,23 @@
               "id": "atty7ZLbwCl5o0LvY",
               "width": 735,
               "height": 550,
-              "url": "https://dl.airtable.com/lxLuUH0BSpaobuZruwJJ_calder-bird.jpg",
+              "url": "https://dl.airtable.com/lxLuUH0BSpaobuZruwJJ_calder-bird.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ab23034121cea295",
               "filename": "calder-bird.jpg",
               "size": 219287,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/cTLt8YgITYe7QuHfPjKi_small_calder-bird.jpg",
+                  "url": "https://dl.airtable.com/cTLt8YgITYe7QuHfPjKi_small_calder-bird.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=013a7355295d47dd",
                   "width": 48,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/nK2tNLHQhm8Nvob1k5uT_large_calder-bird.jpg",
+                  "url": "https://dl.airtable.com/nK2tNLHQhm8Nvob1k5uT_large_calder-bird.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1fa3299e40f069d9",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/xu8MNEDQPqDmYjLKPTjf_full_calder-bird.jpg",
+                  "url": "https://dl.airtable.com/xu8MNEDQPqDmYjLKPTjf_full_calder-bird.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6275f3f9451d6051",
                   "width": 735,
                   "height": 550
                 }
@@ -1095,23 +1102,23 @@
               "id": "attAQDm1vrW4W4Unl",
               "width": 2755,
               "height": 2752,
-              "url": "https://dl.airtable.com/1GtRDFudRsqY5EN3TquT_Rouge%20Triomphant.jpg",
+              "url": "https://dl.airtable.com/1GtRDFudRsqY5EN3TquT_Rouge%20Triomphant.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f1bb649cad4039f2",
               "filename": "Rouge Triomphant.jpg",
               "size": 564642,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/ivRxHDdaT2Smbbb8Y9BW_small_Rouge%20Triomphant.jpg",
+                  "url": "https://dl.airtable.com/ivRxHDdaT2Smbbb8Y9BW_small_Rouge%20Triomphant.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0400c493b6f7438b",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Kb2PvESR60VWfZ87V7QQ_large_Rouge%20Triomphant.jpg",
+                  "url": "https://dl.airtable.com/Kb2PvESR60VWfZ87V7QQ_large_Rouge%20Triomphant.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6bde3b39ccb89436",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/1rEdbzKaS4axkY7Dld5i_full_Rouge%20Triomphant.jpg",
+                  "url": "https://dl.airtable.com/1rEdbzKaS4axkY7Dld5i_full_Rouge%20Triomphant.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fb545f2a3c9150a1",
                   "width": 2755,
                   "height": 2752
                 }
@@ -1119,14 +1126,7 @@
             }
           ],
           "Bio": "Alexander Calder was an American sculptor known as the originator of the mobile, a type of kinetic sculpture made with delicately balanced or suspended components which move in response to motor power or air currents. Calder’s stationary sculptures are called stabiles. He also produced numerous wire figures, notably for a miniature circus.",
-          "Genre": [
-            "Surrealism",
-            "Modern art",
-            "Kinetic Art"
-          ],
-          "Collection": [
-            "recGgfE5NkJLXC2L7"
-          ],
+          "Name": "Alexander Calder",
           "On Display?": true
         },
         "geometry": null
@@ -1135,29 +1135,35 @@
         "type": "Feature",
         "id": "recRoF0jpw765HN7L",
         "properties": {
-          "Name": "Thornton Willis",
+          "Genre": [
+            "American Abstract Expressionism",
+            "Color Field"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "att8enrlgYD3FiHXB",
               "width": 433,
               "height": 550,
-              "url": "https://dl.airtable.com/H3Qw9STQq35qwmGn86mw_Color-Drawing.jpg",
+              "url": "https://dl.airtable.com/H3Qw9STQq35qwmGn86mw_Color-Drawing.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=224ffa91b20a27f6",
               "filename": "Color-Drawing.jpg",
               "size": 374784,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/v579gVvfS6p4R7QUzgEI_small_Color-Drawing.jpg",
+                  "url": "https://dl.airtable.com/v579gVvfS6p4R7QUzgEI_small_Color-Drawing.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=13db04eed5f5bfea",
                   "width": 28,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/6UtAUyxtRSGhCf6FE2b4_large_Color-Drawing.jpg",
+                  "url": "https://dl.airtable.com/6UtAUyxtRSGhCf6FE2b4_large_Color-Drawing.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=62e3a6f6cff653ff",
                   "width": 433,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/Jjp4XfNsQRmwUk6MdCAg_full_Color-Drawing.jpg",
+                  "url": "https://dl.airtable.com/Jjp4XfNsQRmwUk6MdCAg_full_Color-Drawing.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=bad39a1687f79824",
                   "width": 433,
                   "height": 550
                 }
@@ -1167,23 +1173,23 @@
               "id": "attqEXWllptvGjPDQ",
               "width": 551,
               "height": 700,
-              "url": "https://dl.airtable.com/TJGRyxs7TwaqYgrqKmrh_study_No._2.jpg",
+              "url": "https://dl.airtable.com/TJGRyxs7TwaqYgrqKmrh_study_No._2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6f7a31d369ba836d",
               "filename": "study_No._2.jpg",
               "size": 109204,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/5hpwvURkRTevzd9BpFDK_small_study_No._2.jpg",
+                  "url": "https://dl.airtable.com/5hpwvURkRTevzd9BpFDK_small_study_No._2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=344b641e06176c90",
                   "width": 28,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/iVLRdt3AQ46gEEEuwgvJ_large_study_No._2.jpg",
+                  "url": "https://dl.airtable.com/iVLRdt3AQ46gEEEuwgvJ_large_study_No._2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ea011ed633de5c98",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/KPgH1bjITpulzfjt5AXv_full_study_No._2.jpg",
+                  "url": "https://dl.airtable.com/KPgH1bjITpulzfjt5AXv_full_study_No._2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1f48d1e5e8a11b7e",
                   "width": 551,
                   "height": 700
                 }
@@ -1193,23 +1199,23 @@
               "id": "attHI8lwWwEoooJ24",
               "width": 890,
               "height": 1200,
-              "url": "https://dl.airtable.com/Nu8pvf8uQAiJ8eKEcO3d_three_gray_squares.jpg",
+              "url": "https://dl.airtable.com/Nu8pvf8uQAiJ8eKEcO3d_three_gray_squares.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=64c6a95effde0f7a",
               "filename": "three_gray_squares.jpg",
               "size": 109091,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/1veCnIC3QPmwA8zd8l6N_small_three_gray_squares.jpg",
+                  "url": "https://dl.airtable.com/1veCnIC3QPmwA8zd8l6N_small_three_gray_squares.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5b43e02c1862a6ee",
                   "width": 27,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Q0JLyfZBQ8WD3S2GhpRx_large_three_gray_squares.jpg",
+                  "url": "https://dl.airtable.com/Q0JLyfZBQ8WD3S2GhpRx_large_three_gray_squares.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=35ce6c7572a3aaf9",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/GiHKtqQ7R6oxm0bfLGrA_full_three_gray_squares.jpg",
+                  "url": "https://dl.airtable.com/GiHKtqQ7R6oxm0bfLGrA_full_three_gray_squares.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fd7fce810c760654",
                   "width": 890,
                   "height": 1200
                 }
@@ -1219,23 +1225,23 @@
               "id": "att5TIJ00ppiNYQm3",
               "width": 639,
               "height": 517,
-              "url": "https://dl.airtable.com/R6ybBj0jRxmPKeNvp91P_Streets_of_Tupelo.jpg",
+              "url": "https://dl.airtable.com/R6ybBj0jRxmPKeNvp91P_Streets_of_Tupelo.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3733055954c97d67",
               "filename": "Streets_of_Tupelo.jpg",
               "size": 27664,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/HlZlUw1R5u6pZLN6P8i6_small_Streets_of_Tupelo.jpg",
+                  "url": "https://dl.airtable.com/HlZlUw1R5u6pZLN6P8i6_small_Streets_of_Tupelo.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=508d67052e88defa",
                   "width": 44,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/CR46urXNRLaG2eU83L7g_large_Streets_of_Tupelo.jpg",
+                  "url": "https://dl.airtable.com/CR46urXNRLaG2eU83L7g_large_Streets_of_Tupelo.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a0cf9e3f09a277f7",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/rrcMdE1SjaDaRxl1cxgL_full_Streets_of_Tupelo.jpg",
+                  "url": "https://dl.airtable.com/rrcMdE1SjaDaRxl1cxgL_full_Streets_of_Tupelo.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d918f27b7d2c4a7c",
                   "width": 639,
                   "height": 517
                 }
@@ -1243,13 +1249,7 @@
             }
           ],
           "Bio": "Thornton Willis is an American abstract painter. He has contributed to the New York School of painting since the late 1960s. Viewed as a member of the Third Generation of American Abstract Expressionists, his work is associated with Abstract Expressionism, Lyrical Abstraction, Process Art, Postminimalism, Bio-morphic Cubism (a term he coined) and Color Field painting.",
-          "Genre": [
-            "American Abstract Expressionism",
-            "Color Field"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ]
+          "Name": "Thornton Willis"
         },
         "geometry": null
       },
@@ -1257,29 +1257,35 @@
         "type": "Feature",
         "id": "recVkt0xSA1o8ilmX",
         "properties": {
-          "Name": "Mark Rothko",
+          "Genre": [
+            "American Abstract Expressionism",
+            "Color Field"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attONu0jXlWNlHOxh",
               "width": 213,
               "height": 260,
-              "url": "https://dl.airtable.com/m3ySL7kR8mU9u9seQGAB_No._18_1951.jpg",
+              "url": "https://dl.airtable.com/m3ySL7kR8mU9u9seQGAB_No._18_1951.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=13f4b1ca3d2bc3a9",
               "filename": "No._18_1951.jpg",
               "size": 7416,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/q3aqfWzuR6KMxHdIIoAI_small_No._18_1951.jpg",
+                  "url": "https://dl.airtable.com/q3aqfWzuR6KMxHdIIoAI_small_No._18_1951.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1a5f20bc10b46e7a",
                   "width": 29,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/pB4eyzqZQsSW9xeI2w30_large_No._18_1951.jpg",
+                  "url": "https://dl.airtable.com/pB4eyzqZQsSW9xeI2w30_large_No._18_1951.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=501e553aad05401c",
                   "width": 213,
                   "height": 260
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/VR47jAErRSWwBCgzfmnx_full_No._18_1951.jpg",
+                  "url": "https://dl.airtable.com/VR47jAErRSWwBCgzfmnx_full_No._18_1951.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=67c76abf44f06235",
                   "width": 213,
                   "height": 260
                 }
@@ -1289,23 +1295,23 @@
               "id": "atteYo0fXP5bOpxt6",
               "width": 385,
               "height": 640,
-              "url": "https://dl.airtable.com/GMuCUGbkR8maca8BKOAw_Untitled_1954_RISD.jpg",
+              "url": "https://dl.airtable.com/GMuCUGbkR8maca8BKOAw_Untitled_1954_RISD.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1a31a954f0a8749c",
               "filename": "Untitled_1954_RISD.jpg",
               "size": 23636,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/YwC07XldRWm1xG44qlFL_small_Untitled_1954_RISD.jpg",
+                  "url": "https://dl.airtable.com/YwC07XldRWm1xG44qlFL_small_Untitled_1954_RISD.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6cd921152c8f528b",
                   "width": 22,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/XxsVD5xHT7qID17tG1qB_large_Untitled_1954_RISD.jpg",
+                  "url": "https://dl.airtable.com/XxsVD5xHT7qID17tG1qB_large_Untitled_1954_RISD.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=aa7cc4e175dfd4d0",
                   "width": 385,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/DwBK2nLKQQqnuC57BZc0_full_Untitled_1954_RISD.jpg",
+                  "url": "https://dl.airtable.com/DwBK2nLKQQqnuC57BZc0_full_Untitled_1954_RISD.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=74a9e03b9b5246ce",
                   "width": 385,
                   "height": 640
                 }
@@ -1315,23 +1321,23 @@
               "id": "attneJn9hR5DtDns9",
               "width": 385,
               "height": 640,
-              "url": "https://dl.airtable.com/2jZB5LUfRiaoX6YuKhpc_Untitled_1954.jpg",
+              "url": "https://dl.airtable.com/2jZB5LUfRiaoX6YuKhpc_Untitled_1954.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=960aa3c9925ed529",
               "filename": "Untitled_1954.jpg",
               "size": 33352,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/D5D2TdNMTqiDVhxfu4NF_small_Untitled_1954.jpg",
+                  "url": "https://dl.airtable.com/D5D2TdNMTqiDVhxfu4NF_small_Untitled_1954.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b3f491e575eb7c1c",
                   "width": 22,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/oqF9mUFiTnyFJ7xkOuam_large_Untitled_1954.jpg",
+                  "url": "https://dl.airtable.com/oqF9mUFiTnyFJ7xkOuam_large_Untitled_1954.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=30afc8f5070263c5",
                   "width": 385,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/ebyZyKBR0epYw7sDuk6o_full_Untitled_1954.jpg",
+                  "url": "https://dl.airtable.com/ebyZyKBR0epYw7sDuk6o_full_Untitled_1954.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=42841ce82ef6cdc3",
                   "width": 385,
                   "height": 640
                 }
@@ -1341,23 +1347,23 @@
               "id": "attnicjT3NIYNL5Le",
               "width": 551,
               "height": 640,
-              "url": "https://dl.airtable.com/O7dRll3Tz22Nu5bA5y2o_Untitled_(Red%2C_Orange).jpg",
+              "url": "https://dl.airtable.com/O7dRll3Tz22Nu5bA5y2o_Untitled_(Red%2C_Orange).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2bac9583a369a124",
               "filename": "Untitled_(Red,_Orange).jpg",
               "size": 43346,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/mDeAgLSoRr2gx9DBM1ye_small_Untitled_(Red%2C_Orange).jpg",
+                  "url": "https://dl.airtable.com/mDeAgLSoRr2gx9DBM1ye_small_Untitled_(Red%2C_Orange).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=97797d5893452421",
                   "width": 31,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/QL6G7zO2R46xr1UqXLBR_large_Untitled_(Red%2C_Orange).jpg",
+                  "url": "https://dl.airtable.com/QL6G7zO2R46xr1UqXLBR_large_Untitled_(Red%2C_Orange).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=192d6d883886704d",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/3OoiVXG0TWUiCUeIJHGA_full_Untitled_(Red%2C_Orange).jpg",
+                  "url": "https://dl.airtable.com/3OoiVXG0TWUiCUeIJHGA_full_Untitled_(Red%2C_Orange).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a4a4a860f859a4b0",
                   "width": 551,
                   "height": 640
                 }
@@ -1367,23 +1373,23 @@
               "id": "attpDkpjaf734NjM0",
               "width": 480,
               "height": 600,
-              "url": "https://dl.airtable.com/4RUO9GImRueqlBsQrW5c_No._61_(Rust_and_Blue).jpg",
+              "url": "https://dl.airtable.com/4RUO9GImRueqlBsQrW5c_No._61_(Rust_and_Blue).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=201bfd29c9b44f22",
               "filename": "No._61_(Rust_and_Blue).jpg",
               "size": 35819,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/WZnmVRU3Tjyj6HLCYwkw_small_No._61_(Rust_and_Blue).jpg",
+                  "url": "https://dl.airtable.com/WZnmVRU3Tjyj6HLCYwkw_small_No._61_(Rust_and_Blue).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fd815618abc4d3ad",
                   "width": 29,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/14eKyDt3T5WH10kjn7uO_large_No._61_(Rust_and_Blue).jpg",
+                  "url": "https://dl.airtable.com/14eKyDt3T5WH10kjn7uO_large_No._61_(Rust_and_Blue).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6cf49c64a78817ae",
                   "width": 480,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/RlkPiNzQyKJdr2i1z8dK_full_No._61_(Rust_and_Blue).jpg",
+                  "url": "https://dl.airtable.com/RlkPiNzQyKJdr2i1z8dK_full_No._61_(Rust_and_Blue).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3a9bef6bf48fff12",
                   "width": 480,
                   "height": 600
                 }
@@ -1391,13 +1397,7 @@
             }
           ],
           "Bio": "Mark Rothko is generally identified as an Abstract Expressionist. With Jackson Pollock and Willem de Kooning, he is one of the most famous postwar American artists.",
-          "Genre": [
-            "American Abstract Expressionism",
-            "Color Field"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ],
+          "Name": "Mark Rothko",
           "On Display?": true
         },
         "geometry": null
@@ -1406,88 +1406,6 @@
         "type": "Feature",
         "id": "recdvz8qMrqDWSbAC",
         "properties": {
-          "Name": "Paul Klee",
-          "Attachments": [
-            {
-              "id": "attcYYG6sWWrgMFbw",
-              "width": 537,
-              "height": 960,
-              "url": "https://dl.airtable.com/gd7pFfNQQUSksZRDENBL_flower_myth_1918.jpg",
-              "filename": "flower_myth_1918.jpg",
-              "size": 99343,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/fSnqEsyBSLCNTjgTU3aT_small_flower_myth_1918.jpg",
-                  "width": 20,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/JK1oCURQrybztuRvEFcE_large_flower_myth_1918.jpg",
-                  "width": 512,
-                  "height": 512
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/FsMUqTpoQkGePvM4jFtQ_full_flower_myth_1918.jpg",
-                  "width": 537,
-                  "height": 960
-                }
-              }
-            },
-            {
-              "id": "attwaeVMv3ccdV7r4",
-              "width": 1200,
-              "height": 575,
-              "url": "https://dl.airtable.com/YB6WUlIRvm7UTlsFE4LL_insula-dulcamara-1938.jpg",
-              "filename": "insula-dulcamara-1938.jpg",
-              "size": 254393,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/sAWUOCFSFajKUcVewlvX_small_insula-dulcamara-1938.jpg",
-                  "width": 75,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/zwN10PceSUSS0sHOG4DZ_large_insula-dulcamara-1938.jpg",
-                  "width": 512,
-                  "height": 512
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/2PHDPBTS4asVJTimMhwh_full_insula-dulcamara-1938.jpg",
-                  "width": 1200,
-                  "height": 575
-                }
-              }
-            },
-            {
-              "id": "attPegJF1yGoR0Ctv",
-              "width": 1000,
-              "height": 821,
-              "url": "https://dl.airtable.com/wFCn3gvXR2OjIEtHTphC_Castle-and-Sun-by-Paul-Klee.jpg",
-              "filename": "Castle-and-Sun-by-Paul-Klee.jpg",
-              "size": 226289,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/0TB5iJL3QqGO2tE3CexU_small_Castle-and-Sun-by-Paul-Klee.jpg",
-                  "width": 44,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/36HAvrdrR4ejmzGPGp0h_large_Castle-and-Sun-by-Paul-Klee.jpg",
-                  "width": 512,
-                  "height": 512
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/cFBk0sn0TqaxCqlVr9xe_full_Castle-and-Sun-by-Paul-Klee.jpg",
-                  "width": 1000,
-                  "height": 821
-                }
-              }
-            }
-          ],
-          "Bio": "Paul Klee was a painter born in Münchenbuchsee, Switzerland. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. He was also a student of orientalism. Klee was a natural draftsman who experimented with and eventually deeply explored color theory, writing about it extensively. His works reflect his dry humor and his sometimes childlike perspective, his personal moods and beliefs, and also his musicality.\nb. 18 December 1879 d. 29 June 1940 \n",
           "Genre": [
             "Symbolism",
             "Surrealism",
@@ -1498,6 +1416,88 @@
           "Collection": [
             "rec0KryE2r7MKf3TC"
           ],
+          "Attachments": [
+            {
+              "id": "attcYYG6sWWrgMFbw",
+              "width": 537,
+              "height": 960,
+              "url": "https://dl.airtable.com/gd7pFfNQQUSksZRDENBL_flower_myth_1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=4e68e128a56c07c0",
+              "filename": "flower_myth_1918.jpg",
+              "size": 99343,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/fSnqEsyBSLCNTjgTU3aT_small_flower_myth_1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=8c63f943a0d1ad97",
+                  "width": 20,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/JK1oCURQrybztuRvEFcE_large_flower_myth_1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=678114e4b74dc146",
+                  "width": 512,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/FsMUqTpoQkGePvM4jFtQ_full_flower_myth_1918.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=790c24fc6bbb0487",
+                  "width": 537,
+                  "height": 960
+                }
+              }
+            },
+            {
+              "id": "attwaeVMv3ccdV7r4",
+              "width": 1200,
+              "height": 575,
+              "url": "https://dl.airtable.com/YB6WUlIRvm7UTlsFE4LL_insula-dulcamara-1938.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=af705a16614c3bb0",
+              "filename": "insula-dulcamara-1938.jpg",
+              "size": 254393,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/sAWUOCFSFajKUcVewlvX_small_insula-dulcamara-1938.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5c383881b2bf994b",
+                  "width": 75,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/zwN10PceSUSS0sHOG4DZ_large_insula-dulcamara-1938.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=edb2524c1e5567cf",
+                  "width": 512,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/2PHDPBTS4asVJTimMhwh_full_insula-dulcamara-1938.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=79e720222e54ff9d",
+                  "width": 1200,
+                  "height": 575
+                }
+              }
+            },
+            {
+              "id": "attPegJF1yGoR0Ctv",
+              "width": 1000,
+              "height": 821,
+              "url": "https://dl.airtable.com/wFCn3gvXR2OjIEtHTphC_Castle-and-Sun-by-Paul-Klee.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=036de5e584c78d06",
+              "filename": "Castle-and-Sun-by-Paul-Klee.jpg",
+              "size": 226289,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/0TB5iJL3QqGO2tE3CexU_small_Castle-and-Sun-by-Paul-Klee.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=57f3fc8ca584b54a",
+                  "width": 44,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/36HAvrdrR4ejmzGPGp0h_large_Castle-and-Sun-by-Paul-Klee.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=dfac003db7a9a372",
+                  "width": 512,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/cFBk0sn0TqaxCqlVr9xe_full_Castle-and-Sun-by-Paul-Klee.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=de65fde365563893",
+                  "width": 1000,
+                  "height": 821
+                }
+              }
+            }
+          ],
+          "Bio": "Paul Klee was a painter born in Münchenbuchsee, Switzerland. His highly individual style was influenced by movements in art that included expressionism, cubism, and surrealism. He was also a student of orientalism. Klee was a natural draftsman who experimented with and eventually deeply explored color theory, writing about it extensively. His works reflect his dry humor and his sometimes childlike perspective, his personal moods and beliefs, and also his musicality.\nb. 18 December 1879 d. 29 June 1940 \n",
+          "Name": "Paul Klee",
           "On Display?": true
         },
         "geometry": null
@@ -1506,29 +1506,34 @@
         "type": "Feature",
         "id": "recf70LVqbsDubub2",
         "properties": {
-          "Name": "Willem de Kooning",
+          "Genre": [
+            "Abstract Expressionism"
+          ],
+          "Collection": [
+            "recGgfE5NkJLXC2L7"
+          ],
           "Attachments": [
             {
               "id": "attCi0RHkx5DNhYBI",
               "width": 960,
               "height": 1280,
-              "url": "https://dl.airtable.com/af1SXRnGwMaKYIntYegB_clamdigger.jpg",
+              "url": "https://dl.airtable.com/af1SXRnGwMaKYIntYegB_clamdigger.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0785306f0073e68a",
               "filename": "clamdigger.jpg",
               "size": 691995,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/SvcuhJTtT8SIYWmR1Ijg_small_clamdigger.jpg",
+                  "url": "https://dl.airtable.com/SvcuhJTtT8SIYWmR1Ijg_small_clamdigger.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=fde0129b6328335b",
                   "width": 27,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/7xp2q0TJ6hV9FqNxSHwj_large_clamdigger.jpg",
+                  "url": "https://dl.airtable.com/7xp2q0TJ6hV9FqNxSHwj_large_clamdigger.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=28b8e48caf9e855a",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/MYidE4A0RgGcUcrb9ayG_full_clamdigger.jpg",
+                  "url": "https://dl.airtable.com/MYidE4A0RgGcUcrb9ayG_full_clamdigger.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b2d36a62fedfe411",
                   "width": 960,
                   "height": 1280
                 }
@@ -1538,23 +1543,23 @@
               "id": "att2F9zQ0iUqoUzuZ",
               "width": 2245,
               "height": 2257,
-              "url": "https://dl.airtable.com/bI8XHQz65cBlPsWBOPQk_jack_and_bill_large.jpg",
+              "url": "https://dl.airtable.com/bI8XHQz65cBlPsWBOPQk_jack_and_bill_large.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=500a1ea4473c4a52",
               "filename": "jack_and_bill_large.jpg",
               "size": 3315526,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/cqWmmEZERNApjilQI7Kl_small_jack_and_bill_large.jpg",
+                  "url": "https://dl.airtable.com/cqWmmEZERNApjilQI7Kl_small_jack_and_bill_large.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=7f7419c64386808e",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/6rIgwI1S9C1zuL6Kkmqg_large_jack_and_bill_large.jpg",
+                  "url": "https://dl.airtable.com/6rIgwI1S9C1zuL6Kkmqg_large_jack_and_bill_large.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=13f16ed75336009a",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/IfRMUgU3QWqzKuX47fir_full_jack_and_bill_large.jpg",
+                  "url": "https://dl.airtable.com/IfRMUgU3QWqzKuX47fir_full_jack_and_bill_large.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e69221360d0b7c95",
                   "width": 2245,
                   "height": 2257
                 }
@@ -1564,23 +1569,23 @@
               "id": "attPF1WOvQcDmLGiC",
               "width": 1600,
               "height": 1293,
-              "url": "https://dl.airtable.com/XIAiT3YDT5e1GePMVlLw_abstraction-1950.jpg",
+              "url": "https://dl.airtable.com/XIAiT3YDT5e1GePMVlLw_abstraction-1950.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f581930997a3bba0",
               "filename": "abstraction-1950.jpg",
               "size": 1039218,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/vs9ojUenQuGTmDiHpNuQ_small_abstraction-1950.jpg",
+                  "url": "https://dl.airtable.com/vs9ojUenQuGTmDiHpNuQ_small_abstraction-1950.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=2a56f5c117c62c46",
                   "width": 45,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/QuzdlBtzRtenrU4DFNWb_large_abstraction-1950.jpg",
+                  "url": "https://dl.airtable.com/QuzdlBtzRtenrU4DFNWb_large_abstraction-1950.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e250d830284933aa",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/bxDy6CaRZSGEaSyNqLZx_full_abstraction-1950.jpg",
+                  "url": "https://dl.airtable.com/bxDy6CaRZSGEaSyNqLZx_full_abstraction-1950.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f92feeedde729282",
                   "width": 1600,
                   "height": 1293
                 }
@@ -1590,23 +1595,23 @@
               "id": "att1GprK7x6odMvVe",
               "width": 1200,
               "height": 1052,
-              "url": "https://dl.airtable.com/tqCmtNbbRYazTFyR24IA_gotham-news.jpg",
+              "url": "https://dl.airtable.com/tqCmtNbbRYazTFyR24IA_gotham-news.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=18d32b273fb978f9",
               "filename": "gotham-news.jpg",
               "size": 658408,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/Ur1b4gmsQVmsCXG9CSCv_small_gotham-news.jpg",
+                  "url": "https://dl.airtable.com/Ur1b4gmsQVmsCXG9CSCv_small_gotham-news.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=90561960f3f2ee11",
                   "width": 41,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/PY4hgrDRXWGP4IjSVMiQ_large_gotham-news.jpg",
+                  "url": "https://dl.airtable.com/PY4hgrDRXWGP4IjSVMiQ_large_gotham-news.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ce77887d7b469c5f",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/zmF73R82Q96wZAUxqm3g_full_gotham-news.jpg",
+                  "url": "https://dl.airtable.com/zmF73R82Q96wZAUxqm3g_full_gotham-news.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=704fcd2b82476335",
                   "width": 1200,
                   "height": 1052
                 }
@@ -1614,12 +1619,7 @@
             }
           ],
           "Bio": "Willem de Kooning was a Dutch American abstract expressionist artist who was born in Rotterdam, the Netherlands. In the post-World War II era, de Kooning painted in a style that came to be referred to as Abstract expressionism or Action painting, and was part of a group of artists that came to be known as the New York School. ",
-          "Genre": [
-            "Abstract Expressionism"
-          ],
-          "Collection": [
-            "recGgfE5NkJLXC2L7"
-          ]
+          "Name": "Willem de Kooning"
         },
         "geometry": null
       },
@@ -1627,29 +1627,36 @@
         "type": "Feature",
         "id": "recjDnmcrGyB7pnqA",
         "properties": {
-          "Name": "Wassily Kandinsky",
+          "Genre": [
+            "Abstract Expressionism",
+            "Der Blaue Reiter",
+            "Modern art"
+          ],
+          "Collection": [
+            "rec0KryE2r7MKf3TC"
+          ],
           "Attachments": [
             {
               "id": "attDOek21uHGARxIT",
               "width": 586,
               "height": 473,
-              "url": "https://dl.airtable.com/4EVHAaNmSQKOB1fx1ocJ_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg",
+              "url": "https://dl.airtable.com/4EVHAaNmSQKOB1fx1ocJ_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6a8ef274a67fd859",
               "filename": "Vassily_Kandinsky,_1908_-_Houses_in_Munich-2.jpg",
               "size": 42446,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/21BPr0gAQC6OfrgygmOw_small_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg",
+                  "url": "https://dl.airtable.com/21BPr0gAQC6OfrgygmOw_small_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e522aff5161d483c",
                   "width": 45,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/xRGg8S5cQcuDUtz0To9f_large_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg",
+                  "url": "https://dl.airtable.com/xRGg8S5cQcuDUtz0To9f_large_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b63e6991c0750803",
                   "width": 512,
                   "height": 473
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/66M685YbQIy5sFx9VWG4_full_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg",
+                  "url": "https://dl.airtable.com/66M685YbQIy5sFx9VWG4_full_Vassily_Kandinsky%2C_1908_-_Houses_in_Munich-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9853ca3fdc90543d",
                   "width": 586,
                   "height": 473
                 }
@@ -1659,23 +1666,23 @@
               "id": "att7454vRQkzw5Q0r",
               "width": 416,
               "height": 599,
-              "url": "https://dl.airtable.com/OOtFdbecQkmPsbvxY5sc_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg",
+              "url": "https://dl.airtable.com/OOtFdbecQkmPsbvxY5sc_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3650bf33897d8d2c",
               "filename": "Vassily_Kandinsky,_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula (1).jpg",
               "size": 73322,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/RX50sw6FQbe4U50wTvFA_small_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg",
+                  "url": "https://dl.airtable.com/RX50sw6FQbe4U50wTvFA_small_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c4f8fbb8e64615df",
                   "width": 25,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/0EI1ZwYkSlqgoi1oAlKU_large_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg",
+                  "url": "https://dl.airtable.com/0EI1ZwYkSlqgoi1oAlKU_large_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0a2ae1eae55db3c6",
                   "width": 416,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/4FUo6WsERIm2d7YagoP5_full_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg",
+                  "url": "https://dl.airtable.com/4FUo6WsERIm2d7YagoP5_full_Vassily_Kandinsky%2C_1908_-_Munich-Schwabing_with_the_Church_of_St-Ursula%20(1).jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ab8ec7db436aefb8",
                   "width": 416,
                   "height": 599
                 }
@@ -1685,23 +1692,23 @@
               "id": "att4ae0DX9AmvC37u",
               "width": 883,
               "height": 639,
-              "url": "https://dl.airtable.com/WdPrzoF2SPejHrjCHADe_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg",
+              "url": "https://dl.airtable.com/WdPrzoF2SPejHrjCHADe_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f37ed53e267dd4fc",
               "filename": "Vassily_Kandinsky,_1909_-_Murnau_train_et_château.jpg",
               "size": 107456,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/0LvwMdngQiiB4TBmzAwy_small_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg",
+                  "url": "https://dl.airtable.com/0LvwMdngQiiB4TBmzAwy_small_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ecef799e425e5000",
                   "width": 50,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/xs9DQ33rQx6ymTbBC4fF_large_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg",
+                  "url": "https://dl.airtable.com/xs9DQ33rQx6ymTbBC4fF_large_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=443c3cc5b0b90022",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/aEYubaC2Q4uhHv7fakJH_full_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg",
+                  "url": "https://dl.airtable.com/aEYubaC2Q4uhHv7fakJH_full_Vassily_Kandinsky%2C_1909_-_Murnau_train_et_cha%CC%82teau.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=55c40e69ceeb4e9e",
                   "width": 883,
                   "height": 639
                 }
@@ -1711,23 +1718,23 @@
               "id": "attosA1td47YhpfJq",
               "width": 520,
               "height": 365,
-              "url": "https://dl.airtable.com/sJy1IJNVSgqnOH66h35w_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg",
+              "url": "https://dl.airtable.com/sJy1IJNVSgqnOH66h35w_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ad08de96f1ac2b87",
               "filename": "Vassily_Kandinsky,_1927_-_Molle_rudesse.jpg",
               "size": 42833,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/Axesl1Rk6Cw5fks00QMw_small_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg",
+                  "url": "https://dl.airtable.com/Axesl1Rk6Cw5fks00QMw_small_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=29ec6ac21ea41471",
                   "width": 51,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/H4iVpQStSuJqECVGGxWd_large_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg",
+                  "url": "https://dl.airtable.com/H4iVpQStSuJqECVGGxWd_large_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5f2fec2f277245c8",
                   "width": 512,
                   "height": 365
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/1cEAe9tDThyuF31H0xJX_full_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg",
+                  "url": "https://dl.airtable.com/1cEAe9tDThyuF31H0xJX_full_Vassily_Kandinsky%2C_1927_-_Molle_rudesse.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=331028c15b94e011",
                   "width": 520,
                   "height": 365
                 }
@@ -1735,14 +1742,7 @@
             }
           ],
           "Bio": "Wassily Kandinsky (Васи́лий Канди́нский) was an influential Russian painter and art theorist. He is credited with painting one of the first purely abstract works. Born in Moscow, Kandinsky spent his childhood in Odessa. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat—Kandinsky began painting studies (life-drawing, sketching and anatomy) at the age of 30.",
-          "Genre": [
-            "Abstract Expressionism",
-            "Der Blaue Reiter",
-            "Modern art"
-          ],
-          "Collection": [
-            "rec0KryE2r7MKf3TC"
-          ]
+          "Name": "Wassily Kandinsky"
         },
         "geometry": null
       },
@@ -1750,29 +1750,35 @@
         "type": "Feature",
         "id": "recjpcBapfeNDtGVQ",
         "properties": {
-          "Name": "Barnett Newman",
+          "Genre": [
+            "Color Field",
+            "American Abstract Expressionism"
+          ],
+          "Collection": [
+            "recYgiMiPErSIMsCJ"
+          ],
           "Attachments": [
             {
               "id": "attBuWxIL3tSjGMdF",
               "width": 640,
               "height": 482,
-              "url": "https://dl.airtable.com/2cDrlmbJQrWGsnzfEKc5_The_Promise.jpg",
+              "url": "https://dl.airtable.com/2cDrlmbJQrWGsnzfEKc5_The_Promise.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f040fadae98c1d70",
               "filename": "The_Promise.jpg",
               "size": 7673,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/B79n8x4HTgO7JJpgFdTu_small_The_Promise.jpg",
+                  "url": "https://dl.airtable.com/B79n8x4HTgO7JJpgFdTu_small_The_Promise.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c68ce97702491ad3",
                   "width": 48,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/PLvl88j6SgCvY2pP4SmU_large_The_Promise.jpg",
+                  "url": "https://dl.airtable.com/PLvl88j6SgCvY2pP4SmU_large_The_Promise.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=37d91730dc9da11a",
                   "width": 512,
                   "height": 482
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/vKy9ZbqoTGazELHRamog_full_The_Promise.jpg",
+                  "url": "https://dl.airtable.com/vKy9ZbqoTGazELHRamog_full_The_Promise.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5215f44a953441c5",
                   "width": 640,
                   "height": 482
                 }
@@ -1782,23 +1788,23 @@
               "id": "attPNPf29mbF7NF0p",
               "width": 256,
               "height": 400,
-              "url": "https://dl.airtable.com/leePgI80QIuBojYteTJN_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg",
+              "url": "https://dl.airtable.com/leePgI80QIuBojYteTJN_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6a05105f07553b5e",
               "filename": "Newman-Who's_Afraid_of_Red,_Yellow_and_Blue-2.jpg",
               "size": 4965,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/q1Japi2KQ2GxjiF9uQxd_small_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg",
+                  "url": "https://dl.airtable.com/q1Japi2KQ2GxjiF9uQxd_small_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0ade06b3722eeed6",
                   "width": 23,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/ICWyXCFS6CLCjiat72E3_large_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg",
+                  "url": "https://dl.airtable.com/ICWyXCFS6CLCjiat72E3_large_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=574a78abea7cad2e",
                   "width": 256,
                   "height": 400
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/I7cyvSwvRHiybrIwIvnX_full_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg",
+                  "url": "https://dl.airtable.com/I7cyvSwvRHiybrIwIvnX_full_Newman-Who's_Afraid_of_Red%2C_Yellow_and_Blue-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=27be39554da225cb",
                   "width": 256,
                   "height": 400
                 }
@@ -1808,23 +1814,23 @@
               "id": "att6nWQ0EtqcIoNRB",
               "width": 640,
               "height": 1086,
-              "url": "https://dl.airtable.com/Go2FqLCTuOhFcmfIxY3Q_Onement_I.jpg",
+              "url": "https://dl.airtable.com/Go2FqLCTuOhFcmfIxY3Q_Onement_I.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=77d543d59e6a6c6b",
               "filename": "Onement_I.jpg",
               "size": 95696,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/OggpU14sTGebzl9NwRpv_small_Onement_I.jpg",
+                  "url": "https://dl.airtable.com/OggpU14sTGebzl9NwRpv_small_Onement_I.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1d986822193acbe0",
                   "width": 21,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/7eXsGQEtSjajPDlilX4o_large_Onement_I.jpg",
+                  "url": "https://dl.airtable.com/7eXsGQEtSjajPDlilX4o_large_Onement_I.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=5be3f79feb77f4dc",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/uEeFP06fRzGibXNTQVEn_full_Onement_I.jpg",
+                  "url": "https://dl.airtable.com/uEeFP06fRzGibXNTQVEn_full_Onement_I.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=7ff6de5f43b8b01e",
                   "width": 640,
                   "height": 1086
                 }
@@ -1834,23 +1840,23 @@
               "id": "att4isZ6I4VvuSQlG",
               "width": 602,
               "height": 1000,
-              "url": "https://dl.airtable.com/ckExLbZySHmYqDAEm6TG_Concord.jpg",
+              "url": "https://dl.airtable.com/ckExLbZySHmYqDAEm6TG_Concord.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a33e99c3451aae8c",
               "filename": "Concord.jpg",
               "size": 126817,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/bgq0FKMBSvCh141AdMoP_small_Concord.jpg",
+                  "url": "https://dl.airtable.com/bgq0FKMBSvCh141AdMoP_small_Concord.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=f064174b492f853d",
                   "width": 22,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/rfTDhbS4SdJdvPX3kYsQ_large_Concord.jpg",
+                  "url": "https://dl.airtable.com/rfTDhbS4SdJdvPX3kYsQ_large_Concord.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=dc154c9cf435e357",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/i0Dt2kzfSNUzhoil8IGa_full_Concord.jpg",
+                  "url": "https://dl.airtable.com/i0Dt2kzfSNUzhoil8IGa_full_Concord.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c8f3588448f2d880",
                   "width": 602,
                   "height": 1000
                 }
@@ -1860,23 +1866,23 @@
               "id": "attW1M6cQ6IeOQ8nH",
               "width": 300,
               "height": 671,
-              "url": "https://dl.airtable.com/04WekTCWR8GXmHeOxsJw_Voice_of_Fire.jpg",
+              "url": "https://dl.airtable.com/04WekTCWR8GXmHeOxsJw_Voice_of_Fire.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=67cfa20b195c6b84",
               "filename": "Voice_of_Fire.jpg",
               "size": 38202,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/VO692I5FRhyKVmOTFYLw_small_Voice_of_Fire.jpg",
+                  "url": "https://dl.airtable.com/VO692I5FRhyKVmOTFYLw_small_Voice_of_Fire.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d451c6c9d665a55a",
                   "width": 16,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/0lJu0hIScunJJW0d979x_large_Voice_of_Fire.jpg",
+                  "url": "https://dl.airtable.com/0lJu0hIScunJJW0d979x_large_Voice_of_Fire.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0141ed7679f7d88c",
                   "width": 300,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/dXe14SSMQHiZGKmGIudG_full_Voice_of_Fire.jpg",
+                  "url": "https://dl.airtable.com/dXe14SSMQHiZGKmGIudG_full_Voice_of_Fire.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d2e66440b17a89d7",
                   "width": 300,
                   "height": 671
                 }
@@ -1884,13 +1890,7 @@
             }
           ],
           "Bio": "Barnett Newman was an American artist. He is seen as one of the major figures inabstract expressionism and one of the foremost of the color field painters. His paintings are existential in tone and content, explicitly composed with the intention of communicating a sense of locality, presence, and contingency.",
-          "Genre": [
-            "Color Field",
-            "American Abstract Expressionism"
-          ],
-          "Collection": [
-            "recYgiMiPErSIMsCJ"
-          ]
+          "Name": "Barnett Newman"
         },
         "geometry": null
       },
@@ -1898,29 +1898,35 @@
         "type": "Feature",
         "id": "reclRfcijb4FJwOFq",
         "properties": {
-          "Name": "Ellsworth Kelly",
+          "Genre": [
+            "Color Field"
+          ],
+          "Collection": [
+            "recS9WrteduIdSxWi",
+            "reci5RBWwyyqdfyq9"
+          ],
           "Attachments": [
             {
               "id": "attdjq5uuG9U8ZHOj",
               "width": 185,
               "height": 272,
-              "url": "https://dl.airtable.com/HgP3UEpBSWeTUaEVulqh_images.jpg",
+              "url": "https://dl.airtable.com/HgP3UEpBSWeTUaEVulqh_images.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6cfb22317f51f6ee",
               "filename": "images.jpg",
               "size": 3310,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/DLSHuSTECU5Npc8uPFgx_small_images.jpg",
+                  "url": "https://dl.airtable.com/DLSHuSTECU5Npc8uPFgx_small_images.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=659a8f80f2398f8f",
                   "width": 24,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/QhY86izSduHP46AAKoBL_large_images.jpg",
+                  "url": "https://dl.airtable.com/QhY86izSduHP46AAKoBL_large_images.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=62ea37de8cc4d26e",
                   "width": 185,
                   "height": 272
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/jbuAxhUiQ3Wibm3iaerA_full_images.jpg",
+                  "url": "https://dl.airtable.com/jbuAxhUiQ3Wibm3iaerA_full_images.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=951a0e77afd6fe3f",
                   "width": 185,
                   "height": 272
                 }
@@ -1930,23 +1936,23 @@
               "id": "attrG1NX15of4K50M",
               "width": 545,
               "height": 546,
-              "url": "https://dl.airtable.com/eh1p6NOjREmHkS4EgjT4_kelly_ellsworth_1.jpg",
+              "url": "https://dl.airtable.com/eh1p6NOjREmHkS4EgjT4_kelly_ellsworth_1.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=1f9d131fd0bb7944",
               "filename": "kelly_ellsworth_1.jpg",
               "size": 34330,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/vf3p5f1jS2mmQeV1Qc3G_small_kelly_ellsworth_1.jpg",
+                  "url": "https://dl.airtable.com/vf3p5f1jS2mmQeV1Qc3G_small_kelly_ellsworth_1.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=005d66da8d8ec4f6",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/8WLdHQAgSFy8HMMotERJ_large_kelly_ellsworth_1.jpg",
+                  "url": "https://dl.airtable.com/8WLdHQAgSFy8HMMotERJ_large_kelly_ellsworth_1.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9a57a6b6d6f077ac",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/bBecYUg3QxqDynBhfIXe_full_kelly_ellsworth_1.jpg",
+                  "url": "https://dl.airtable.com/bBecYUg3QxqDynBhfIXe_full_kelly_ellsworth_1.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=98ad173997f01897",
                   "width": 545,
                   "height": 546
                 }
@@ -1956,23 +1962,23 @@
               "id": "attuw7sa51ryV6klt",
               "width": 370,
               "height": 569,
-              "url": "https://dl.airtable.com/oNWE05dxQXyIgCjvtvBT_ellsworth_kelly.jpg",
+              "url": "https://dl.airtable.com/oNWE05dxQXyIgCjvtvBT_ellsworth_kelly.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9c67819414c99159",
               "filename": "ellsworth_kelly.jpg",
               "size": 23913,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/uReKiioIRmAxqKGrg3qK_small_ellsworth_kelly.jpg",
+                  "url": "https://dl.airtable.com/uReKiioIRmAxqKGrg3qK_small_ellsworth_kelly.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=91f1c85cafaeaad6",
                   "width": 23,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Cp2vSEjhRsWAE7ZYC9jk_large_ellsworth_kelly.jpg",
+                  "url": "https://dl.airtable.com/Cp2vSEjhRsWAE7ZYC9jk_large_ellsworth_kelly.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=418c7da18fec76b5",
                   "width": 370,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/VEexdggJQqCjdmCeTy6s_full_ellsworth_kelly.jpg",
+                  "url": "https://dl.airtable.com/VEexdggJQqCjdmCeTy6s_full_ellsworth_kelly.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b69fe83d71ba275e",
                   "width": 370,
                   "height": 569
                 }
@@ -1982,23 +1988,23 @@
               "id": "atti4UMdq9czrYYoL",
               "width": 1366,
               "height": 1365,
-              "url": "https://dl.airtable.com/jYYzvd0uTtywGbO2n8Of_Spectrum-Colors-Arranged-By-Chance-II.jpg",
+              "url": "https://dl.airtable.com/jYYzvd0uTtywGbO2n8Of_Spectrum-Colors-Arranged-By-Chance-II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d1a9d18595253514",
               "filename": "Spectrum-Colors-Arranged-By-Chance-II.jpg",
               "size": 335369,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/PgtOEii9SZCjGGeohiU9_small_Spectrum-Colors-Arranged-By-Chance-II.jpg",
+                  "url": "https://dl.airtable.com/PgtOEii9SZCjGGeohiU9_small_Spectrum-Colors-Arranged-By-Chance-II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9a215db3c2b5fa42",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/oFsbWw4RQDqM1AeT7lkw_large_Spectrum-Colors-Arranged-By-Chance-II.jpg",
+                  "url": "https://dl.airtable.com/oFsbWw4RQDqM1AeT7lkw_large_Spectrum-Colors-Arranged-By-Chance-II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=cef91d0461385c10",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/DQNKovGVTK2vZqhMcsuY_full_Spectrum-Colors-Arranged-By-Chance-II.jpg",
+                  "url": "https://dl.airtable.com/DQNKovGVTK2vZqhMcsuY_full_Spectrum-Colors-Arranged-By-Chance-II.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6264704db98e3e07",
                   "width": 1366,
                   "height": 1365
                 }
@@ -2008,23 +2014,23 @@
               "id": "att0ZggruYQhC8ChC",
               "width": 2484,
               "height": 1908,
-              "url": "https://dl.airtable.com/cEFOgwWQLOC3ZJ5vN9wq_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG",
+              "url": "https://dl.airtable.com/cEFOgwWQLOC3ZJ5vN9wq_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c08493e9ebb64201",
               "filename": "Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG",
               "size": 215673,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/3f6tuD0rTduQcTyzRqhl_small_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG",
+                  "url": "https://dl.airtable.com/3f6tuD0rTduQcTyzRqhl_small_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=eeb5fbabf89d45fd",
                   "width": 47,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/VJ5oETKZRytEmxAioXAd_large_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG",
+                  "url": "https://dl.airtable.com/VJ5oETKZRytEmxAioXAd_large_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=cc348722cbd0cd53",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/F5HdltuTGqXP0wRV4zL5_full_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG",
+                  "url": "https://dl.airtable.com/F5HdltuTGqXP0wRV4zL5_full_Kelly__Ellsworth__Inv.Nr.0-1974-11_02.JPG?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a4d619f4e2f674a9",
                   "width": 2484,
                   "height": 1908
                 }
@@ -2032,13 +2038,7 @@
             }
           ],
           "Bio": "Since the beginning of his career, Ellsworth Kelly's emphasis on pure form and color and his impulse to suppress gesture in favor of creating spatial unity have played a pivotal role in the development of abstract art in America. A major influence on Pop Art, Minimalism, hard-edge and color field painting, Ellsworth Kelly’s best-known works are distinguished by sharply delineated shapes flatly painted in vivid color, such as Colors for a Large Wall (1951). His abstract paintings are inspired by the interplay of light, space, and color in the architecture around him. In contrast, Kelly’s automatic drawings feature delicate outlines of bodies and flora.",
-          "Genre": [
-            "Color Field"
-          ],
-          "Collection": [
-            "recS9WrteduIdSxWi",
-            "reci5RBWwyyqdfyq9"
-          ],
+          "Name": "Ellsworth Kelly",
           "On Display?": true
         },
         "geometry": null
@@ -2047,29 +2047,35 @@
         "type": "Feature",
         "id": "recnQ8DaGps3RLOzs",
         "properties": {
-          "Name": "Miya Ando",
+          "Genre": [
+            "Post-minimalism",
+            "Color Field"
+          ],
+          "Collection": [
+            "recS9WrteduIdSxWi"
+          ],
           "Attachments": [
             {
               "id": "attLVumLibzCVC78C",
               "width": 1000,
               "height": 1000,
-              "url": "https://dl.airtable.com/Y80E3oL8TYSDOcKOzxle_blue%2Blight.jpg",
+              "url": "https://dl.airtable.com/Y80E3oL8TYSDOcKOzxle_blue%2Blight.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a4133b4b44efb968",
               "filename": "blue+light.jpg",
               "size": 52668,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/yPuixUODQVy2kxdZkGvU_small_blue%2Blight.jpg",
+                  "url": "https://dl.airtable.com/yPuixUODQVy2kxdZkGvU_small_blue%2Blight.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b44896f67785dfb6",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Sn6Y8YoERLaHFZ6VSeUX_large_blue%2Blight.jpg",
+                  "url": "https://dl.airtable.com/Sn6Y8YoERLaHFZ6VSeUX_large_blue%2Blight.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e174634c0cdc2a98",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/FnUW3gT3R3GJIcSiDD0F_full_blue%2Blight.jpg",
+                  "url": "https://dl.airtable.com/FnUW3gT3R3GJIcSiDD0F_full_blue%2Blight.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3e85b31d23690acf",
                   "width": 1000,
                   "height": 1000
                 }
@@ -2079,23 +2085,23 @@
               "id": "attKMaJXwjMiuZdLI",
               "width": 1000,
               "height": 1000,
-              "url": "https://dl.airtable.com/9Z3DOoUiRneBgiQcEMBH_miya_ando_sui_getsu_ka_grid-copy.jpg",
+              "url": "https://dl.airtable.com/9Z3DOoUiRneBgiQcEMBH_miya_ando_sui_getsu_ka_grid-copy.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=485ca978b7728232",
               "filename": "miya_ando_sui_getsu_ka_grid-copy.jpg",
               "size": 442579,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/sVf1evOpTIuYNBq112JB_small_miya_ando_sui_getsu_ka_grid-copy.jpg",
+                  "url": "https://dl.airtable.com/sVf1evOpTIuYNBq112JB_small_miya_ando_sui_getsu_ka_grid-copy.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=9e3fd6c06e9542a6",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/ULxSWukSEqkMA8PrdtWk_large_miya_ando_sui_getsu_ka_grid-copy.jpg",
+                  "url": "https://dl.airtable.com/ULxSWukSEqkMA8PrdtWk_large_miya_ando_sui_getsu_ka_grid-copy.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=424c46dc734e978d",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/dt16nj4fSOyTkFBRaarb_full_miya_ando_sui_getsu_ka_grid-copy.jpg",
+                  "url": "https://dl.airtable.com/dt16nj4fSOyTkFBRaarb_full_miya_ando_sui_getsu_ka_grid-copy.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0a912ff40dfbd020",
                   "width": 1000,
                   "height": 1000
                 }
@@ -2105,23 +2111,23 @@
               "id": "attNFdk6dFEIc8umv",
               "width": 1000,
               "height": 1000,
-              "url": "https://dl.airtable.com/CRVMBftRaWcb9CYGAP0Q_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg",
+              "url": "https://dl.airtable.com/CRVMBftRaWcb9CYGAP0Q_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=ad001ac637829039",
               "filename": "miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg",
               "size": 355045,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/b1cFxd9ORAG3h6TmC4U0_small_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg",
+                  "url": "https://dl.airtable.com/b1cFxd9ORAG3h6TmC4U0_small_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=40b2506b4af8dab8",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/cBeBS401SlqFfKpOaRp9_large_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg",
+                  "url": "https://dl.airtable.com/cBeBS401SlqFfKpOaRp9_large_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b8007b2e88996853",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/OzrcokTEQgeVQ4N5206n_full_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg",
+                  "url": "https://dl.airtable.com/OzrcokTEQgeVQ4N5206n_full_miya_ando_blue_green_24x24inch_alumium_dye_patina_phosphorescence_resin-2.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0f8cc01111f2fefa",
                   "width": 1000,
                   "height": 1000
                 }
@@ -2131,23 +2137,23 @@
               "id": "attFdi66XbBwzKzQl",
               "width": 600,
               "height": 600,
-              "url": "https://dl.airtable.com/4ayqP53bQnSR7TYjykqd_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg",
+              "url": "https://dl.airtable.com/4ayqP53bQnSR7TYjykqd_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=00b61e2cac3266dd",
               "filename": "miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg",
               "size": 151282,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/RZcqDKiaS0qmit6bijR7_small_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg",
+                  "url": "https://dl.airtable.com/RZcqDKiaS0qmit6bijR7_small_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=77503f385be9ef8c",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/Tu3lQRdHQMUBceMoL8De_large_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg",
+                  "url": "https://dl.airtable.com/Tu3lQRdHQMUBceMoL8De_large_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d0890542cb3b779e",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/WxJ5rxvFT3WbKQrlUEHW_full_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg",
+                  "url": "https://dl.airtable.com/WxJ5rxvFT3WbKQrlUEHW_full_miya_ando_shinobu_santa_cruz_size_48x48inches_year_2010_medium_aluminum_patina_pigment_automotive_lacquer.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=b48f819a8c057a0d",
                   "width": 600,
                   "height": 600
                 }
@@ -2155,13 +2161,7 @@
             }
           ],
           "Bio": "Miya Ando is an American artist whose metal canvases and sculpture articulate themes of perception and one's relationship to time. The foundation of her practice is the transformation of surfaces. Half Japanese & half Russian-American, Ando is a descendant of Bizen sword makers and spent part of her childhood in a Buddhist temple in Japan as well as on 25 acres of redwood forest in rural coastal Northern California. She has continued her 16th-generation Japanese sword smithing and Buddhist lineage by combining metals, reflectivity and light in her luminous paintings and sculpture.",
-          "Genre": [
-            "Post-minimalism",
-            "Color Field"
-          ],
-          "Collection": [
-            "recS9WrteduIdSxWi"
-          ]
+          "Name": "Miya Ando"
         },
         "geometry": null
       },
@@ -2169,29 +2169,35 @@
         "type": "Feature",
         "id": "recsGtIKvQdhQCcOY",
         "properties": {
-          "Name": "Gustav Klimt",
+          "Genre": [
+            "Symbolism",
+            "Art Nouveau"
+          ],
+          "Collection": [
+            "rec0KryE2r7MKf3TC"
+          ],
           "Attachments": [
             {
               "id": "att4EhUt9K3bkBaru",
               "width": 440,
               "height": 440,
-              "url": "https://dl.airtable.com/d5KHrZleQZ6L3DPW7g54_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg",
+              "url": "https://dl.airtable.com/d5KHrZleQZ6L3DPW7g54_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=e9369ca46a4b7ce6",
               "filename": "Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg",
               "size": 114122,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/WitmfsAFQWKPmublSCOG_small_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg",
+                  "url": "https://dl.airtable.com/WitmfsAFQWKPmublSCOG_small_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=61c3cae06d2586b1",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/FKOU6pKQZqIZQNCbHbcz_large_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg",
+                  "url": "https://dl.airtable.com/FKOU6pKQZqIZQNCbHbcz_large_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=7a9c0c8194bca482",
                   "width": 440,
                   "height": 440
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/wpaheUAMQKqtWjY80EAN_full_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg",
+                  "url": "https://dl.airtable.com/wpaheUAMQKqtWjY80EAN_full_Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=0c7d0cd84e75bea9",
                   "width": 440,
                   "height": 440
                 }
@@ -2201,23 +2207,23 @@
               "id": "attTWR0OBc8WBcgjy",
               "width": 440,
               "height": 707,
-              "url": "https://dl.airtable.com/ixuVHjD4Soe2FgNnC3ei_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg",
+              "url": "https://dl.airtable.com/ixuVHjD4Soe2FgNnC3ei_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=d230fa759acf9ad6",
               "filename": "Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg",
               "size": 106414,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/x8p2nHl1T2C8EHxYhbVx_small_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg",
+                  "url": "https://dl.airtable.com/x8p2nHl1T2C8EHxYhbVx_small_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=24fefc7eb0b215aa",
                   "width": 22,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/BKbYYxUGSkiRvrBF3zrX_large_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg",
+                  "url": "https://dl.airtable.com/BKbYYxUGSkiRvrBF3zrX_large_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a78e4bcdc4cb16b7",
                   "width": 440,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/hzT9dSp6SaqzEJA7Bhxo_full_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg",
+                  "url": "https://dl.airtable.com/hzT9dSp6SaqzEJA7Bhxo_full_Preparatory_design_-_Klimt_-_Stoclet_Palace.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=7aaf3afe87d0bc0f",
                   "width": 440,
                   "height": 707
                 }
@@ -2227,23 +2233,23 @@
               "id": "attFsAwjho3IHWSCS",
               "width": 900,
               "height": 600,
-              "url": "https://dl.airtable.com/gu13nfXQkuiwJTmPv6fQ_the_apple_tree_-_gustav_klimt.jpg",
+              "url": "https://dl.airtable.com/gu13nfXQkuiwJTmPv6fQ_the_apple_tree_-_gustav_klimt.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=c9aa3ed00a7aad9b",
               "filename": "the_apple_tree_-_gustav_klimt.jpg",
               "size": 316196,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/nhslPIg5RPuVRNJRFytJ_small_the_apple_tree_-_gustav_klimt.jpg",
+                  "url": "https://dl.airtable.com/nhslPIg5RPuVRNJRFytJ_small_the_apple_tree_-_gustav_klimt.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=3fb1b99241e14f55",
                   "width": 54,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/iZeIylgUTQzrcJqkOL3A_large_the_apple_tree_-_gustav_klimt.jpg",
+                  "url": "https://dl.airtable.com/iZeIylgUTQzrcJqkOL3A_large_the_apple_tree_-_gustav_klimt.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=bb769c27bbab35d8",
                   "width": 512,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/LwOO1F2tSfG8jwvlrXgF_full_the_apple_tree_-_gustav_klimt.jpg",
+                  "url": "https://dl.airtable.com/LwOO1F2tSfG8jwvlrXgF_full_the_apple_tree_-_gustav_klimt.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=273727fd6fd77806",
                   "width": 900,
                   "height": 600
                 }
@@ -2253,23 +2259,23 @@
               "id": "attNAagWCDmEz3DJ8",
               "width": 440,
               "height": 440,
-              "url": "https://dl.airtable.com/ms1gQdlWTmRkOFqPcPQ4_440px-Gustav_Klimt_046.jpg",
+              "url": "https://dl.airtable.com/ms1gQdlWTmRkOFqPcPQ4_440px-Gustav_Klimt_046.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=6439229fdeb8f3d5",
               "filename": "440px-Gustav_Klimt_046.jpg",
               "size": 96517,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/kefTrNvoQdKOHbMWoY6S_small_440px-Gustav_Klimt_046.jpg",
+                  "url": "https://dl.airtable.com/kefTrNvoQdKOHbMWoY6S_small_440px-Gustav_Klimt_046.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=a6f3b57bbb855028",
                   "width": 36,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/ilzTrgwWT1yHFJVkurKw_large_440px-Gustav_Klimt_046.jpg",
+                  "url": "https://dl.airtable.com/ilzTrgwWT1yHFJVkurKw_large_440px-Gustav_Klimt_046.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=929efe554b080a7d",
                   "width": 440,
                   "height": 440
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/zp74cKR9TIWhMDhmgHCV_full_440px-Gustav_Klimt_046.jpg",
+                  "url": "https://dl.airtable.com/zp74cKR9TIWhMDhmgHCV_full_440px-Gustav_Klimt_046.jpg?ts=1649406626&userId=usrSlplvlbrwkP6td&cs=31e36dae682dcc71",
                   "width": 440,
                   "height": 440
                 }
@@ -2277,13 +2283,7 @@
             }
           ],
           "Bio": "Gustav Klimt was an Austrian symbolist painter and one of the most prominent members of the Vienna Secession movement. Klimt is noted for his paintings, murals, sketches, and other objets d'art. Klimt's primary subject was the female body, and his works are marked by a frank eroticism. In addition to his figurative works, which include allegories and portraits, he painted landscapes. Among the artists of the Vienna Secession, Klimt was the most influenced by Japanese art and its methods.",
-          "Genre": [
-            "Symbolism",
-            "Art Nouveau"
-          ],
-          "Collection": [
-            "rec0KryE2r7MKf3TC"
-          ],
+          "Name": "Gustav Klimt",
           "On Display?": true
         },
         "geometry": null
